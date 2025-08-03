@@ -1,0 +1,4267 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Lasagna",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 (28 ounce) can crushed tomatoes",
+      "1 (15 ounce) can tomato sauce",
+      "1/2 cup water",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon dried oregano",
+      "1/4 teaspoon dried thyme",
+      "12 lasagna noodles",
+      "1 (15 ounce) container ricotta cheese",
+      "1 egg",
+      "1/4 cup grated Parmesan cheese",
+      "2 cups shredded mozzarella cheese"
+    ],
+    "instructions": [
+      "In a large pot, brown ground beef with onion and garlic. Drain excess fat.",
+      "Stir in crushed tomatoes, tomato sauce, water, salt, pepper, oregano, and thyme. Simmer for 30 minutes.",
+      "Cook lasagna noodles according to package directions. Drain.",
+      "In a medium bowl, mix ricotta, egg, and Parmesan cheese.",
+      "Preheat oven to 375°F (190°C).",
+      "Spread a thin layer of meat sauce on the bottom of a 9x13 inch baking dish.",
+      "Arrange 4 noodles lengthwise over the sauce. Spread with half of the ricotta mixture. Top with a third of the mozzarella cheese and a third of the meat sauce.",
+      "Repeat layers once more. Top with the remaining 4 noodles, ricotta mixture, mozzarella cheese, and meat sauce.",
+      "Bake for 25 minutes. Let stand for 10 minutes before serving."
+    ],
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 30,
+    "servings": 8,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Pasta",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 1,
+    "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Tikka Masala",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+      "1 cup plain yogurt",
+      "2 tablespoons lemon juice",
+      "2 teaspoons ground cumin",
+      "2 teaspoons paprika",
+      "1 teaspoon turmeric",
+      "1 teaspoon garam masala",
+      "1 teaspoon salt",
+      "1 tablespoon vegetable oil",
+      "1 large onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tablespoon grated ginger",
+      "1 (15 ounce) can crushed tomatoes",
+      "1 cup heavy cream",
+      "1/4 cup chopped fresh cilantro"
+    ],
+    "instructions": [
+      "In a bowl, combine chicken, yogurt, lemon juice, cumin, paprika, turmeric, garam masala, and salt. Mix well and marinate for at least 30 minutes.",
+      "In a large skillet, heat oil over medium-high heat. Add onion and cook until softened.",
+      "Stir in garlic and ginger and cook for 1 minute.",
+      "Add the marinated chicken and cook until browned on all sides.",
+      "Pour in crushed tomatoes and bring to a simmer. Reduce heat to low, cover, and cook for 20 minutes.",
+      "Stir in heavy cream and cilantro. Cook for 5 more minutes.",
+      "Serve hot with rice or naan."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 40,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Indian",
+    "caloriesPerServing": 550,
+    "tags": [
+      "Curry",
+      "Chicken",
+      "Indian",
+      "Dinner"
+    ],
+    "userId": 2,
+    "image": "https://cdn.dummyjson.com/recipe-images/2.webp",
+    "rating": 4.6,
+    "reviewCount": 15,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Stir-Fry",
+    "ingredients": [
+      "1 tablespoon vegetable oil",
+      "1 cup broccoli florets",
+      "1 red bell pepper, sliced",
+      "1 carrot, thinly sliced",
+      "1/2 cup snap peas",
+      "1/4 cup soy sauce",
+      "1 tablespoon cornstarch",
+      "1 tablespoon honey",
+      "1 teaspoon grated ginger",
+      "1 clove garlic, minced",
+      "1/4 cup water",
+      "1 cup cooked rice, for serving"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together soy sauce, cornstarch, honey, ginger, and garlic. Add water and set aside.",
+      "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+      "Add broccoli, red bell pepper, and carrot. Stir-fry for 3-5 minutes.",
+      "Add snap peas and continue to stir-fry for 2 more minutes.",
+      "Pour the sauce over the vegetables and stir until the sauce has thickened and the vegetables are coated.",
+      "Serve hot over rice."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "caloriesPerServing": 300,
+    "tags": [
+      "Vegetarian",
+      "Asian",
+      "Quick",
+      "Dinner"
+    ],
+    "userId": 3,
+    "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Chip Cookies",
+    "ingredients": [
+      "1 cup unsalted butter, softened",
+      "1 cup white sugar",
+      "1 cup packed brown sugar",
+      "2 eggs",
+      "2 teaspoons vanilla extract",
+      "3 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "2 cups semisweet chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a large bowl, cream together butter, white sugar, and brown sugar until smooth.",
+      "Beat in the eggs one at a time, then stir in the vanilla.",
+      "In a separate bowl, whisk together flour, baking soda, and salt.",
+      "Gradually add the dry ingredients to the wet ingredients and mix until just combined.",
+      "Stir in the chocolate chips.",
+      "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+      "Bake for 10-12 minutes or until golden brown. Let cool on the baking sheets for a few minutes before transferring to wire racks to cool completely."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 12,
+    "servings": 24,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 150,
+    "tags": [
+      "Cookies",
+      "Dessert",
+      "Baking"
+    ],
+    "userId": 4,
+    "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
+    "rating": 4.7,
+    "reviewCount": 20,
+    "mealType": [
+      "Snack"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pasta Carbonara",
+    "ingredients": [
+      "8 ounces spaghetti",
+      "4 ounces pancetta or bacon, diced",
+      "2 large eggs",
+      "1/2 cup grated Parmesan cheese",
+      "1/4 cup grated Pecorino Romano cheese",
+      "1/2 teaspoon black pepper",
+      "2 cloves garlic, minced"
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil. Cook spaghetti according to package directions.",
+      "While the pasta is cooking, cook pancetta in a skillet over medium heat until crispy. Remove pancetta and set aside, leaving the rendered fat in the skillet.",
+      "In a bowl, whisk together eggs, Parmesan, Pecorino Romano, and black pepper.",
+      "Drain the pasta, reserving 1/2 cup of the pasta water.",
+      "Add the hot, drained pasta to the skillet with the pancetta fat. Stir in garlic and cook for 1 minute.",
+      "Remove the skillet from the heat. Quickly pour the egg and cheese mixture over the pasta, tossing constantly to coat the pasta. The heat from the pasta will cook the eggs.",
+      "If the sauce is too thick, add a tablespoon or two of the reserved pasta water to reach the desired consistency.",
+      "Stir in the crispy pancetta and serve immediately."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Pasta",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 5,
+    "image": "https://cdn.dummyjson.com/recipe-images/5.webp",
+    "rating": 4.3,
+    "reviewCount": 12,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mediterranean Quinoa Salad",
+    "ingredients": [
+      "1 cup quinoa, rinsed",
+      "2 cups water",
+      "1 cup chopped cucumber",
+      "1 cup chopped tomatoes",
+      "1/2 cup chopped red onion",
+      "1/2 cup crumbled feta cheese",
+      "1/4 cup chopped fresh parsley",
+      "2 tablespoons olive oil",
+      "1 lemon, juiced",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper"
+    ],
+    "instructions": [
+      "In a small pot, bring water and quinoa to a boil. Reduce heat to low, cover, and simmer for 15 minutes, or until the water is absorbed.",
+      "Fluff the quinoa with a fork and let it cool.",
+      "In a large bowl, combine the cooled quinoa, cucumber, tomatoes, red onion, feta cheese, and parsley.",
+      "In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.",
+      "Pour the dressing over the salad and toss to combine.",
+      "Serve chilled or at room temperature."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Mediterranean",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Salad",
+      "Vegetarian",
+      "Healthy",
+      "Lunch"
+    ],
+    "userId": 6,
+    "image": "https://cdn.dummyjson.com/recipe-images/6.webp",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Caprese Skewers",
+    "ingredients": [
+      "16 cherry tomatoes",
+      "16 small fresh mozzarella balls (bocconcini)",
+      "16 fresh basil leaves",
+      "2 tablespoons balsamic glaze"
+    ],
+    "instructions": [
+      "Thread one cherry tomato, one mozzarella ball, and one basil leaf onto each skewer.",
+      "Arrange the skewers on a platter.",
+      "Drizzle with balsamic glaze just before serving."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Italian",
+    "caloriesPerServing": 150,
+    "tags": [
+      "Appetizer",
+      "Italian",
+      "Quick",
+      "Snack"
+    ],
+    "userId": 7,
+    "image": "https://cdn.dummyjson.com/recipe-images/7.webp",
+    "rating": 4.7,
+    "reviewCount": 9,
+    "mealType": [
+      "Snack"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Homemade Pizza",
+    "ingredients": [
+      "1 pre-made pizza crust",
+      "1/2 cup pizza sauce",
+      "1 cup shredded mozzarella cheese",
+      "1/2 cup sliced pepperoni",
+      "1/4 cup sliced mushrooms",
+      "1/4 cup sliced green bell pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Place the pizza crust on a baking sheet.",
+      "Spread pizza sauce evenly over the crust.",
+      "Sprinkle with mozzarella cheese.",
+      "Arrange pepperoni, mushrooms, and green bell pepper on top of the cheese.",
+      "Bake for 12-15 minutes, or until the crust is golden and the cheese is bubbly.",
+      "Slice and serve hot."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Italian",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Pizza",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 8,
+    "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
+    "rating": 4.5,
+    "reviewCount": 14,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Caesar Salad",
+    "ingredients": [
+      "1 head of romaine lettuce, chopped",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "1/2 cup Caesar dressing"
+    ],
+    "instructions": [
+      "In a large bowl, combine the chopped romaine lettuce, croutons, and Parmesan cheese.",
+      "Pour the Caesar dressing over the salad and toss to coat.",
+      "Serve immediately."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 0,
+    "servings": 2,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 250,
+    "tags": [
+      "Salad",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 9,
+    "image": "https://cdn.dummyjson.com/recipe-images/9.webp",
+    "rating": 4.2,
+    "reviewCount": 7,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Beef Tacos",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 packet taco seasoning",
+      "1/2 cup water",
+      "12 taco shells",
+      "1 cup shredded lettuce",
+      "1 cup chopped tomatoes",
+      "1/2 cup shredded cheddar cheese",
+      "1/4 cup sour cream",
+      "1/4 cup salsa"
+    ],
+    "instructions": [
+      "In a large skillet, brown ground beef over medium-high heat. Drain excess fat.",
+      "Stir in taco seasoning and water. Bring to a simmer and cook for 5 minutes.",
+      "Warm taco shells according to package directions.",
+      "Fill each taco shell with the seasoned ground beef.",
+      "Top with lettuce, tomatoes, cheese, sour cream, and salsa.",
+      "Serve immediately."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "servings": 6,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Tacos",
+      "Mexican",
+      "Dinner"
+    ],
+    "userId": 10,
+    "image": "https://cdn.dummyjson.com/recipe-images/10.webp",
+    "rating": 4.6,
+    "reviewCount": 18,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Chicken Noodle Soup",
+    "ingredients": [
+      "1 tablespoon olive oil",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "1 cup chopped onion",
+      "2 cloves garlic, minced",
+      "8 cups chicken broth",
+      "2 cups shredded cooked chicken",
+      "1 cup egg noodles",
+      "1/2 teaspoon dried thyme",
+      "1/2 teaspoon dried rosemary",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat. Add carrots, celery, and onion. Cook until softened, about 5-7 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in chicken broth and bring to a boil. Add shredded chicken, egg noodles, thyme, and rosemary.",
+      "Reduce heat and simmer for 10-15 minutes, or until the noodles are cooked through.",
+      "Season with salt and black pepper to taste.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 25,
+    "servings": 6,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 200,
+    "tags": [
+      "Soup",
+      "Chicken",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 11,
+    "image": "https://cdn.dummyjson.com/recipe-images/11.webp",
+    "rating": 4.7,
+    "reviewCount": 13,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Shrimp Scampi",
+    "ingredients": [
+      "1 lb shrimp, peeled and deveined",
+      "8 ounces linguine",
+      "4 cloves garlic, minced",
+      "1/2 cup white wine",
+      "1/4 cup lemon juice",
+      "1/4 cup butter",
+      "2 tablespoons olive oil",
+      "1/4 cup chopped fresh parsley",
+      "1/4 teaspoon red pepper flakes"
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil. Cook linguine according to package directions. Drain.",
+      "While the pasta is cooking, heat olive oil and butter in a large skillet over medium heat.",
+      "Add garlic and red pepper flakes. Cook for 1 minute until fragrant.",
+      "Add shrimp to the skillet and cook until pink, about 2-3 minutes per side.",
+      "Pour in white wine and lemon juice. Bring to a simmer.",
+      "Add the drained linguine to the skillet and toss to coat with the sauce.",
+      "Stir in fresh parsley.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Italian",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Pasta",
+      "Seafood",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 12,
+    "image": "https://cdn.dummyjson.com/recipe-images/12.webp",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Bruschetta",
+    "ingredients": [
+      "1 baguette, sliced into 1/2-inch thick rounds",
+      "2 tablespoons olive oil",
+      "2 cloves garlic, peeled",
+      "2 cups chopped tomatoes",
+      "1/4 cup chopped fresh basil",
+      "1 tablespoon balsamic glaze",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Place baguette slices on a baking sheet. Brush with olive oil.",
+      "Bake for 5-7 minutes, or until lightly toasted.",
+      "While the bread is toasting, combine chopped tomatoes, basil, and balsamic glaze in a bowl. Season with salt and pepper.",
+      "Rub the toasted bread with the peeled garlic cloves.",
+      "Top each slice of bread with the tomato mixture.",
+      "Serve immediately."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 7,
+    "servings": 6,
+    "difficulty": "Easy",
+    "cuisine": "Italian",
+    "caloriesPerServing": 120,
+    "tags": [
+      "Appetizer",
+      "Italian",
+      "Snack"
+    ],
+    "userId": 13,
+    "image": "https://cdn.dummyjson.com/recipe-images/13.webp",
+    "rating": 4.5,
+    "reviewCount": 8,
+    "mealType": [
+      "Snack"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chicken Quesadillas",
+    "ingredients": [
+      "2 large flour tortillas",
+      "1 cup shredded cooked chicken",
+      "1 cup shredded cheddar and Monterey Jack cheese blend",
+      "1/4 cup diced onion",
+      "1/4 cup diced bell pepper",
+      "1 tablespoon olive oil",
+      "salsa, sour cream, and guacamole for serving"
+    ],
+    "instructions": [
+      "In a skillet, heat olive oil over medium heat. Add onion and bell pepper and cook until softened.",
+      "Add shredded chicken and cook until heated through.",
+      "Place one tortilla in a clean skillet over medium heat. Sprinkle half of the cheese over the tortilla.",
+      "Spread the chicken and vegetable mixture over the cheese. Sprinkle with the remaining cheese.",
+      "Top with the second tortilla. Cook for 2-3 minutes per side, or until the cheese is melted and the tortilla is golden brown.",
+      "Cut into wedges and serve with salsa, sour cream, and guacamole."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Mexican",
+      "Chicken",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 14,
+    "image": "https://cdn.dummyjson.com/recipe-images/14.webp",
+    "rating": 4.4,
+    "reviewCount": 11,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": [
+      "2 slices of bread",
+      "2 slices of cheddar cheese",
+      "1 tablespoon butter, softened"
+    ],
+    "instructions": [
+      "Spread butter on one side of each slice of bread.",
+      "Place one slice of bread, butter-side down, in a skillet over medium heat.",
+      "Top with the cheese slices, then the second slice of bread, butter-side up.",
+      "Cook for 2-3 minutes per side, or until the bread is golden brown and the cheese is melted.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 5,
+    "cookTimeMinutes": 5,
+    "servings": 1,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Sandwich",
+      "Comfort food",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 15,
+    "image": "https://cdn.dummyjson.com/recipe-images/15.webp",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Classic Pancakes",
+    "ingredients": [
+      "1 ½ cups all-purpose flour",
+      "3 ½ teaspoons baking powder",
+      "1 teaspoon salt",
+      "1 tablespoon white sugar",
+      "1 ¼ cups milk",
+      "1 egg",
+      "3 tablespoons melted butter"
+    ],
+    "instructions": [
+      "In a large bowl, whisk together flour, baking powder, salt and sugar.",
+      "In a separate bowl, whisk together milk, egg and melted butter.",
+      "Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.",
+      "Heat a lightly oiled griddle or frying pan over medium-high heat.",
+      "Pour ¼ cup of batter onto the griddle for each pancake. Cook for 2-3 minutes per side, or until golden brown.",
+      "Serve hot with butter and maple syrup."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 300,
+    "tags": [
+      "Breakfast",
+      "American"
+    ],
+    "userId": 16,
+    "image": "https://cdn.dummyjson.com/recipe-images/16.webp",
+    "rating": 4.5,
+    "reviewCount": 12,
+    "mealType": [
+      "Breakfast"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Fresh Tomato Salsa",
+    "ingredients": [
+      "4 large tomatoes, chopped",
+      "1/2 red onion, finely diced",
+      "1 jalapeño, minced",
+      "1/4 cup chopped fresh cilantro",
+      "1 lime, juiced",
+      "1/2 teaspoon salt"
+    ],
+    "instructions": [
+      "In a medium bowl, combine the chopped tomatoes, red onion, jalapeño, and cilantro.",
+      "Stir in the lime juice and salt.",
+      "Serve immediately with tortilla chips or cover and refrigerate for up to 2 hours to allow the flavors to meld."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 6,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "caloriesPerServing": 50,
+    "tags": [
+      "Salsa",
+      "Appetizer",
+      "Mexican",
+      "Quick",
+      "Snack"
+    ],
+    "userId": 17,
+    "image": "https://cdn.dummyjson.com/recipe-images/17.webp",
+    "rating": 4.7,
+    "reviewCount": 9,
+    "mealType": [
+      "Snack"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Guacamole",
+    "ingredients": [
+      "3 ripe avocados, mashed",
+      "1 lime, juiced",
+      "1/2 red onion, finely diced",
+      "1 jalapeño, minced",
+      "1/4 cup chopped fresh cilantro",
+      "1/2 teaspoon salt"
+    ],
+    "instructions": [
+      "In a medium bowl, mash the avocados with a fork.",
+      "Stir in the lime juice, red onion, jalapeño, cilantro, and salt.",
+      "Serve immediately with tortilla chips or cover with plastic wrap pressed directly onto the surface of the guacamole and refrigerate for up to 2 hours."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "caloriesPerServing": 250,
+    "tags": [
+      "Dip",
+      "Appetizer",
+      "Mexican",
+      "Quick",
+      "Snack"
+    ],
+    "userId": 18,
+    "image": "https://cdn.dummyjson.com/recipe-images/18.webp",
+    "rating": 4.6,
+    "reviewCount": 15,
+    "mealType": [
+      "Snack"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Chicken and Dumplings",
+    "ingredients": [
+      "1 tablespoon olive oil",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "1 cup chopped onion",
+      "2 cloves garlic, minced",
+      "8 cups chicken broth",
+      "2 cups shredded cooked chicken",
+      "1/2 teaspoon dried thyme",
+      "1/2 teaspoon dried rosemary",
+      "salt and black pepper to taste",
+      "2 cups all-purpose flour",
+      "1 tablespoon baking powder",
+      "1 teaspoon salt",
+      "1 cup milk",
+      "1/4 cup melted butter"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat. Add carrots, celery, and onion. Cook until softened, about 5-7 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in chicken broth and bring to a boil. Add shredded chicken, thyme, and rosemary.",
+      "In a separate bowl, whisk together flour, baking powder, and salt. Stir in milk and melted butter until just combined.",
+      "Drop the dumpling batter by spoonfuls into the simmering soup.",
+      "Reduce heat to low, cover, and cook for 15 minutes, or until the dumplings are cooked through.",
+      "Season with salt and black pepper to taste.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Soup",
+      "Chicken",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 19,
+    "image": "https://cdn.dummyjson.com/recipe-images/19.webp",
+    "rating": 4.7,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Baked Ziti",
+    "ingredients": [
+      "1 lb ziti pasta",
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 (28 ounce) can crushed tomatoes",
+      "1 (15 ounce) can tomato sauce",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon dried oregano",
+      "1/2 teaspoon dried basil",
+      "1 (15 ounce) container ricotta cheese",
+      "1 egg",
+      "1/4 cup grated Parmesan cheese",
+      "2 cups shredded mozzarella cheese"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Cook ziti pasta according to package directions. Drain.",
+      "In a large pot, brown ground beef with onion and garlic. Drain excess fat.",
+      "Stir in crushed tomatoes, tomato sauce, salt, pepper, oregano, and basil. Simmer for 15 minutes.",
+      "In a medium bowl, mix ricotta, egg, and Parmesan cheese.",
+      "In a large bowl, combine the cooked pasta, meat sauce, ricotta mixture, and half of the mozzarella cheese.",
+      "Pour the mixture into a 9x13 inch baking dish. Top with the remaining mozzarella cheese.",
+      "Bake for 20-25 minutes, or until the cheese is bubbly and golden brown.",
+      "Let stand for 10 minutes before serving."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 8,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Pasta",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 20,
+    "image": "https://cdn.dummyjson.com/recipe-images/20.webp",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Chicken and Waffles",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into strips",
+      "1 cup all-purpose flour",
+      "1 teaspoon paprika",
+      "1/2 teaspoon cayenne pepper",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 egg",
+      "1/2 cup milk",
+      "vegetable oil for frying",
+      "4 waffles, toasted",
+      "maple syrup for serving"
+    ],
+    "instructions": [
+      "In a shallow dish, combine flour, paprika, cayenne pepper, garlic powder, onion powder, salt, and black pepper.",
+      "In a separate shallow dish, whisk together egg and milk.",
+      "Dip each chicken strip into the milk mixture, then dredge in the flour mixture, pressing to coat.",
+      "Heat vegetable oil in a large skillet to 350°F (175°C).",
+      "Fry the chicken strips for 3-4 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate.",
+      "Serve the fried chicken on top of the toasted waffles. Drizzle with maple syrup."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 700,
+    "tags": [
+      "Breakfast",
+      "Chicken",
+      "Comfort food",
+      "American"
+    ],
+    "userId": 21,
+    "image": "https://cdn.dummyjson.com/recipe-images/21.webp",
+    "rating": 4.6,
+    "reviewCount": 11,
+    "mealType": [
+      "Breakfast"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Beef Stroganoff",
+    "ingredients": [
+      "1 lb beef sirloin, thinly sliced",
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "8 ounces mushrooms, sliced",
+      "2 cloves garlic, minced",
+      "1/2 cup beef broth",
+      "1/2 cup sour cream",
+      "1/4 cup heavy cream",
+      "1 tablespoon Dijon mustard",
+      "1/2 teaspoon paprika",
+      "salt and black pepper to taste",
+      "8 ounces egg noodles"
+    ],
+    "instructions": [
+      "Cook egg noodles according to package directions. Drain and set aside.",
+      "While the noodles are cooking, heat olive oil in a large skillet over medium-high heat. Add beef and cook until browned.",
+      "Remove beef from the skillet and set aside.",
+      "Add onion and mushrooms to the skillet and cook until softened.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in beef broth and bring to a simmer, scraping up any browned bits from the bottom of the skillet.",
+      "In a small bowl, whisk together sour cream, heavy cream, Dijon mustard, and paprika.",
+      "Reduce heat to low and stir the sour cream mixture into the skillet. Return the beef to the skillet and cook for 2-3 minutes, or until heated through. Do not boil.",
+      "Season with salt and black pepper to taste.",
+      "Serve the beef and sauce over the cooked egg noodles."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Russian",
+    "caloriesPerServing": 650,
+    "tags": [
+      "Beef",
+      "Pasta",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 22,
+    "image": "https://cdn.dummyjson.com/recipe-images/22.webp",
+    "rating": 4.5,
+    "reviewCount": 14,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Shepherd's Pie",
+    "ingredients": [
+      "1 lb ground lamb or beef",
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "2 cloves garlic, minced",
+      "1/2 cup beef broth",
+      "1/4 cup red wine (optional)",
+      "1 tablespoon tomato paste",
+      "1/2 teaspoon dried thyme",
+      "1/2 teaspoon dried rosemary",
+      "salt and black pepper to taste",
+      "3 lbs potatoes, peeled and quartered",
+      "1/2 cup milk",
+      "1/4 cup butter"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a large pot, boil potatoes until tender. Drain and mash with milk and butter. Season with salt and pepper.",
+      "While the potatoes are boiling, heat olive oil in a large skillet over medium-high heat. Add ground meat and cook until browned. Drain excess fat.",
+      "Add onion, carrots, and celery to the skillet. Cook until softened.",
+      "Stir in garlic, tomato paste, thyme, and rosemary. Cook for 1 minute.",
+      "Pour in beef broth and red wine (if using). Bring to a simmer and cook for 10 minutes, or until the sauce has thickened.",
+      "Season with salt and black pepper to taste.",
+      "Pour the meat mixture into a 9x13 inch baking dish. Top with the mashed potatoes, spreading evenly.",
+      "Use a fork to create ridges on the mashed potato topping.",
+      "Bake for 20-25 minutes, or until the topping is golden brown and the filling is bubbly."
+    ],
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "British",
+    "caloriesPerServing": 550,
+    "tags": [
+      "Pie",
+      "Beef",
+      "Lamb",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 23,
+    "image": "https://cdn.dummyjson.com/recipe-images/23.webp",
+    "rating": 4.6,
+    "reviewCount": 12,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Pad Thai",
+    "ingredients": [
+      "8 ounces dried rice noodles",
+      "2 tablespoons vegetable oil",
+      "2 cloves garlic, minced",
+      "8 ounces shrimp, peeled and deveined",
+      "1 cup bean sprouts",
+      "1/2 cup chopped peanuts",
+      "1/4 cup chopped fresh cilantro",
+      "1/4 cup fish sauce",
+      "1/4 cup tamarind paste",
+      "2 tablespoons lime juice",
+      "2 tablespoons brown sugar",
+      "1/4 teaspoon red pepper flakes",
+      "1 egg, scrambled"
+    ],
+    "instructions": [
+      "Soak rice noodles in warm water for 30 minutes, or until softened. Drain and set aside.",
+      "In a small bowl, whisk together fish sauce, tamarind paste, lime juice, brown sugar, and red pepper flakes. Set aside.",
+      "Heat vegetable oil in a large skillet or wok over medium-high heat. Add garlic and shrimp. Cook until shrimp is pink.",
+      "Push the shrimp and garlic to one side of the skillet. Pour the scrambled egg onto the other side and cook until set. Break up the egg with a spatula.",
+      "Add the softened noodles and the sauce to the skillet. Toss to combine and cook for 2-3 minutes.",
+      "Stir in bean sprouts and half of the peanuts. Toss to combine.",
+      "Serve hot, garnished with the remaining peanuts and fresh cilantro."
+    ],
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Hard",
+    "cuisine": "Thai",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Noodles",
+      "Thai",
+      "Dinner"
+    ],
+    "userId": 24,
+    "image": "https://cdn.dummyjson.com/recipe-images/24.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Chicken Parmesan",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "1 cup all-purpose flour",
+      "2 eggs, beaten",
+      "1 cup breadcrumbs",
+      "1/2 cup grated Parmesan cheese",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "vegetable oil for frying",
+      "2 cups marinara sauce",
+      "1 cup shredded mozzarella cheese"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Pound each chicken breast to a uniform thickness.",
+      "In a shallow dish, combine flour, salt, and black pepper.",
+      "In a separate shallow dish, place the beaten eggs.",
+      "In a third shallow dish, combine breadcrumbs and Parmesan cheese.",
+      "Dredge each chicken breast in the flour, then dip in the egg, and finally coat in the breadcrumb mixture, pressing to adhere.",
+      "Heat vegetable oil in a large skillet over medium-high heat. Fry the chicken for 3-4 minutes per side, or until golden brown.",
+      "Transfer the fried chicken to a baking dish. Top each piece with marinara sauce and mozzarella cheese.",
+      "Bake for 10-15 minutes, or until the cheese is melted and bubbly."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Chicken",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 25,
+    "image": "https://cdn.dummyjson.com/recipe-images/25.webp",
+    "rating": 4.6,
+    "reviewCount": 13,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Black Bean Burgers",
+    "ingredients": [
+      "1 (15 ounce) can black beans, rinsed and mashed",
+      "1/2 cup breadcrumbs",
+      "1/4 cup chopped onion",
+      "1/4 cup chopped bell pepper",
+      "1 clove garlic, minced",
+      "1 teaspoon ground cumin",
+      "1/2 teaspoon chili powder",
+      "1/4 cup chopped fresh cilantro",
+      "1 egg",
+      "salt and black pepper to taste",
+      "4 hamburger buns",
+      "lettuce, tomato, and avocado for serving"
+    ],
+    "instructions": [
+      "In a large bowl, combine the mashed black beans, breadcrumbs, onion, bell pepper, garlic, cumin, chili powder, cilantro, egg, salt, and black pepper.",
+      "Mix well and form into 4 patties.",
+      "Heat a lightly oiled skillet over medium-high heat. Cook the patties for 3-4 minutes per side, or until golden brown.",
+      "Serve the patties on the hamburger buns with lettuce, tomato, and avocado."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Vegetarian",
+      "Burger",
+      "Healthy",
+      "Lunch"
+    ],
+    "userId": 26,
+    "image": "https://cdn.dummyjson.com/recipe-images/26.webp",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Fish and Chips",
+    "ingredients": [
+      "1 lb cod fillets, cut into 2-inch pieces",
+      "1 cup all-purpose flour",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 cup cold beer",
+      "vegetable oil for frying",
+      "2 large potatoes, cut into fries"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together flour, baking powder, salt, and black pepper. Stir in the cold beer until just combined.",
+      "Heat vegetable oil in a large pot or deep fryer to 375°F (190°C).",
+      "Fry the potatoes in batches until golden brown and crispy. Drain on a paper towel-lined plate and season with salt.",
+      "Dip each piece of cod into the batter, letting any excess drip off.",
+      "Carefully place the battered fish in the hot oil. Fry for 3-4 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate.",
+      "Serve the fried fish with the fries."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "British",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Seafood",
+      "British",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 27,
+    "image": "https://cdn.dummyjson.com/recipe-images/27.webp",
+    "rating": 4.5,
+    "reviewCount": 11,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Chicken Pot Pie",
+    "ingredients": [
+      "1 sheet frozen puff pastry, thawed",
+      "1 tablespoon butter",
+      "1/2 cup chopped onion",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "2 cups shredded cooked chicken",
+      "1 cup frozen peas",
+      "1/2 cup all-purpose flour",
+      "2 cups chicken broth",
+      "1 cup heavy cream",
+      "1/2 teaspoon dried thyme",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a large pot, melt butter over medium heat. Add onion, carrots, and celery. Cook until softened, about 5-7 minutes.",
+      "Stir in flour and cook for 1 more minute.",
+      "Gradually whisk in chicken broth and heavy cream. Bring to a simmer, stirring constantly, until the sauce has thickened.",
+      "Stir in shredded chicken, peas, and thyme. Season with salt and black pepper to taste.",
+      "Pour the mixture into a 9-inch pie dish.",
+      "Place the puff pastry sheet over the pie dish, pressing it down the sides. Cut a few slits in the top to allow steam to escape.",
+      "Bake for 20-25 minutes, or until the crust is golden brown and the filling is bubbly."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 650,
+    "tags": [
+      "Pie",
+      "Chicken",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 28,
+    "image": "https://cdn.dummyjson.com/recipe-images/28.webp",
+    "rating": 4.6,
+    "reviewCount": 14,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Chicken Fajitas",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into strips",
+      "1 onion, sliced",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "2 tablespoons olive oil",
+      "1 packet fajita seasoning",
+      "8 flour tortillas",
+      "salsa, sour cream, and guacamole for serving"
+    ],
+    "instructions": [
+      "In a large skillet, heat olive oil over medium-high heat. Add chicken strips and cook until browned.",
+      "Add onion and bell peppers. Cook until softened, about 5-7 minutes.",
+      "Stir in the fajita seasoning and cook for 1 more minute.",
+      "Warm the tortillas according to package directions.",
+      "Serve the chicken and vegetable mixture in the warm tortillas with salsa, sour cream, and guacamole."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Chicken",
+      "Mexican",
+      "Dinner"
+    ],
+    "userId": 29,
+    "image": "https://cdn.dummyjson.com/recipe-images/29.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Broccoli Cheddar Soup",
+    "ingredients": [
+      "1 tablespoon butter",
+      "1/2 cup chopped onion",
+      "1 cup chopped carrots",
+      "2 cups broccoli florets",
+      "4 cups chicken or vegetable broth",
+      "1 cup heavy cream",
+      "2 cups shredded cheddar cheese",
+      "1/4 teaspoon nutmeg",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, melt butter over medium heat. Add onion and carrots. Cook until softened, about 5-7 minutes.",
+      "Add broccoli florets and cook for 2 more minutes.",
+      "Pour in chicken or vegetable broth and bring to a simmer. Cook for 10-15 minutes, or until the vegetables are tender.",
+      "Using an immersion blender, blend the soup until smooth. Alternatively, transfer the soup to a regular blender and blend in batches.",
+      "Stir in heavy cream and cheddar cheese. Cook until the cheese is melted and the soup is smooth. Do not boil.",
+      "Season with nutmeg, salt, and black pepper to taste.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Soup",
+      "Vegetarian",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 30,
+    "image": "https://cdn.dummyjson.com/recipe-images/30.webp",
+    "rating": 4.6,
+    "reviewCount": 12,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Lemon Herb Roasted Chicken",
+    "ingredients": [
+      "1 whole chicken, about 4 lbs",
+      "1 lemon, halved",
+      "1 head of garlic, halved",
+      "1 onion, quartered",
+      "2 tablespoons olive oil",
+      "1 tablespoon chopped fresh rosemary",
+      "1 tablespoon chopped fresh thyme",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C).",
+      "Pat the chicken dry with paper towels.",
+      "Rub the chicken all over with olive oil. Season with salt and black pepper.",
+      "Stuff the chicken cavity with the lemon halves, garlic halves, and onion quarters.",
+      "Sprinkle the chopped rosemary and thyme over the chicken.",
+      "Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until a meat thermometer inserted into the thickest part of the thigh reads 165°F (74°C).",
+      "Let the chicken rest for 10 minutes before carving and serving."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 75,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Chicken",
+      "Dinner"
+    ],
+    "userId": 31,
+    "image": "https://cdn.dummyjson.com/recipe-images/31.webp",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Spaghetti and Meatballs",
+    "ingredients": [
+      "1 lb spaghetti",
+      "1 lb ground beef",
+      "1/2 cup breadcrumbs",
+      "1/4 cup grated Parmesan cheese",
+      "1 egg",
+      "1 clove garlic, minced",
+      "1/4 cup chopped fresh parsley",
+      "1 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 (28 ounce) can crushed tomatoes",
+      "1 (15 ounce) can tomato sauce"
+    ],
+    "instructions": [
+      "In a large bowl, combine ground beef, breadcrumbs, Parmesan cheese, egg, garlic, parsley, salt, and black pepper. Mix well and form into 1-inch meatballs.",
+      "In a large pot, bring a pot of salted water to a boil. Cook spaghetti according to package directions. Drain.",
+      "While the pasta is cooking, brown the meatballs in a large skillet over medium-high heat. Drain excess fat.",
+      "Pour in crushed tomatoes and tomato sauce. Bring to a simmer, then reduce heat to low, cover, and cook for 20 minutes, or until the meatballs are cooked through.",
+      "Serve the meatballs and sauce over the cooked spaghetti."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 550,
+    "tags": [
+      "Pasta",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 32,
+    "image": "https://cdn.dummyjson.com/recipe-images/32.webp",
+    "rating": 4.5,
+    "reviewCount": 13,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Chicken Tenders",
+    "ingredients": [
+      "1 lb chicken tenders",
+      "1 cup all-purpose flour",
+      "2 eggs, beaten",
+      "1 cup breadcrumbs",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "vegetable oil for frying"
+    ],
+    "instructions": [
+      "In a shallow dish, combine flour, salt, and black pepper.",
+      "In a separate shallow dish, place the beaten eggs.",
+      "In a third shallow dish, place the breadcrumbs.",
+      "Dredge each chicken tender in the flour, then dip in the egg, and finally coat in the breadcrumbs.",
+      "Heat vegetable oil in a large skillet or deep fryer to 350°F (175°C).",
+      "Fry the chicken tenders in batches for 3-4 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate.",
+      "Serve with your favorite dipping sauces."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Chicken",
+      "Snack",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 33,
+    "image": "https://cdn.dummyjson.com/recipe-images/33.webp",
+    "rating": 4.7,
+    "reviewCount": 10,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Creamy Tomato Soup",
+    "ingredients": [
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 (28 ounce) can crushed tomatoes",
+      "2 cups vegetable broth",
+      "1/2 cup heavy cream",
+      "1/2 teaspoon dried basil",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat. Add onion and cook until softened, about 5 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in crushed tomatoes and vegetable broth. Bring to a simmer.",
+      "Using an immersion blender, blend the soup until smooth. Alternatively, transfer the soup to a regular blender and blend in batches.",
+      "Stir in heavy cream and dried basil. Cook for 2-3 minutes, or until heated through. Do not boil.",
+      "Season with salt and black pepper to taste.",
+      "Serve hot with a dollop of sour cream or croutons."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 250,
+    "tags": [
+      "Soup",
+      "Vegetarian",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 34,
+    "image": "https://cdn.dummyjson.com/recipe-images/34.webp",
+    "rating": 4.6,
+    "reviewCount": 8,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Apple Pie",
+    "ingredients": [
+      "1 pre-made pie crust",
+      "5 cups sliced apples",
+      "1/2 cup white sugar",
+      "1/4 cup packed brown sugar",
+      "2 tablespoons all-purpose flour",
+      "1 teaspoon ground cinnamon",
+      "1/4 teaspoon ground nutmeg",
+      "1 tablespoon lemon juice",
+      "1 tablespoon butter, cut into small pieces"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C).",
+      "In a large bowl, toss the sliced apples with white sugar, brown sugar, flour, cinnamon, nutmeg, and lemon juice.",
+      "Place one pie crust in a 9-inch pie dish. Pour the apple mixture into the crust.",
+      "Dot with the pieces of butter.",
+      "Top with the second pie crust, crimping the edges to seal. Cut a few slits in the top to allow steam to escape.",
+      "Bake for 15 minutes, then reduce the oven temperature to 375°F (190°C) and bake for an additional 40-45 minutes, or until the crust is golden brown and the filling is bubbly."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 60,
+    "servings": 8,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 300,
+    "tags": [
+      "Pie",
+      "Dessert",
+      "Baking"
+    ],
+    "userId": 35,
+    "image": "https://cdn.dummyjson.com/recipe-images/35.webp",
+    "rating": 4.7,
+    "reviewCount": 15,
+    "mealType": [
+      "Dessert"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Grilled Salmon",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 tablespoons olive oil",
+      "1 lemon, sliced",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "2 tablespoons chopped fresh dill"
+    ],
+    "instructions": [
+      "Preheat grill to medium-high heat.",
+      "Brush the salmon fillets with olive oil. Season with salt and black pepper.",
+      "Place the salmon on the grill, skin-side down. Top with a slice of lemon and sprinkle with fresh dill.",
+      "Grill for 6-8 minutes, or until the salmon is cooked through and flakes easily with a fork."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Seafood",
+      "Healthy",
+      "Quick",
+      "Dinner"
+    ],
+    "userId": 36,
+    "image": "https://cdn.dummyjson.com/recipe-images/36.webp",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Chicken Curry",
+    "ingredients": [
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tablespoon grated ginger",
+      "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+      "2 teaspoons curry powder",
+      "1 teaspoon turmeric",
+      "1/2 teaspoon garam masala",
+      "1 (15 ounce) can crushed tomatoes",
+      "1 (13.5 ounce) can coconut milk",
+      "1/4 cup chopped fresh cilantro",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat vegetable oil over medium-high heat. Add onion and cook until softened.",
+      "Stir in garlic and ginger and cook for 1 minute.",
+      "Add chicken and cook until browned on all sides.",
+      "Stir in curry powder, turmeric, and garam masala. Cook for 1 more minute.",
+      "Pour in crushed tomatoes and coconut milk. Bring to a simmer, then reduce heat to low, cover, and cook for 20 minutes, or until the chicken is cooked through.",
+      "Season with salt and black pepper to taste.",
+      "Stir in fresh cilantro and serve hot with rice."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Indian",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Curry",
+      "Chicken",
+      "Indian",
+      "Dinner"
+    ],
+    "userId": 37,
+    "image": "https://cdn.dummyjson.com/recipe-images/37.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Vegetable Fried Rice",
+    "ingredients": [
+      "2 tablespoons vegetable oil",
+      "1 cup chopped carrots",
+      "1 cup frozen peas",
+      "1/2 cup chopped onion",
+      "2 cloves garlic, minced",
+      "3 cups cooked rice, chilled",
+      "1/4 cup soy sauce",
+      "1 tablespoon sesame oil",
+      "2 eggs, beaten"
+    ],
+    "instructions": [
+      "In a large skillet or wok, heat vegetable oil over medium-high heat. Add carrots, peas, and onion. Cook until softened, about 5 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Push the vegetables to one side of the skillet. Pour the beaten eggs onto the other side and cook, scrambling with a spatula.",
+      "Stir the vegetables and eggs together. Add the chilled cooked rice and stir to combine.",
+      "Pour in the soy sauce and sesame oil. Stir-fry for 3-5 minutes, or until the rice is heated through and the flavors have melded.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Vegetarian",
+      "Rice",
+      "Asian",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 38,
+    "image": "https://cdn.dummyjson.com/recipe-images/38.webp",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Tuna Salad Sandwich",
+    "ingredients": [
+      "1 (5 ounce) can tuna, drained",
+      "1/4 cup mayonnaise",
+      "1 tablespoon chopped celery",
+      "1 tablespoon chopped red onion",
+      "1/2 teaspoon Dijon mustard",
+      "salt and black pepper to taste",
+      "2 slices of bread",
+      "lettuce for serving"
+    ],
+    "instructions": [
+      "In a medium bowl, combine tuna, mayonnaise, celery, red onion, and Dijon mustard. Mix well.",
+      "Season with salt and black pepper to taste.",
+      "Spread the tuna salad on one slice of bread. Top with lettuce and the second slice of bread.",
+      "Serve immediately."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 0,
+    "servings": 1,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Sandwich",
+      "Seafood",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 39,
+    "image": "https://cdn.dummyjson.com/recipe-images/39.webp",
+    "rating": 4.3,
+    "reviewCount": 7,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Chicken Alfredo",
+    "ingredients": [
+      "8 ounces fettuccine",
+      "2 boneless, skinless chicken breasts, cut into cubes",
+      "1 tablespoon olive oil",
+      "2 cloves garlic, minced",
+      "1 cup heavy cream",
+      "1/2 cup grated Parmesan cheese",
+      "1/4 cup chopped fresh parsley",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Cook fettuccine according to package directions. Drain.",
+      "While the pasta is cooking, heat olive oil in a large skillet over medium-high heat. Add chicken cubes and cook until browned and cooked through.",
+      "Remove chicken from the skillet and set aside.",
+      "Reduce heat to low. Add garlic to the skillet and cook for 1 minute until fragrant.",
+      "Pour in heavy cream and bring to a simmer. Cook for 3-5 minutes, or until the sauce has thickened.",
+      "Stir in Parmesan cheese until melted and the sauce is smooth.",
+      "Add the cooked fettuccine and chicken to the skillet. Toss to coat with the sauce.",
+      "Season with salt and black pepper to taste. Stir in fresh parsley.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 700,
+    "tags": [
+      "Pasta",
+      "Chicken",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 40,
+    "image": "https://cdn.dummyjson.com/recipe-images/40.webp",
+    "rating": 4.6,
+    "reviewCount": 11,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Mango Salsa",
+    "ingredients": [
+      "2 ripe mangoes, diced",
+      "1 red bell pepper, diced",
+      "1/2 red onion, finely diced",
+      "1 jalapeño, minced",
+      "1/4 cup chopped fresh cilantro",
+      "1 lime, juiced",
+      "1/2 teaspoon salt"
+    ],
+    "instructions": [
+      "In a medium bowl, combine the diced mangoes, red bell pepper, red onion, jalapeño, and cilantro.",
+      "Stir in the lime juice and salt.",
+      "Serve immediately with tortilla chips or grilled chicken or fish."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "caloriesPerServing": 100,
+    "tags": [
+      "Salsa",
+      "Appetizer",
+      "Mexican",
+      "Quick",
+      "Snack"
+    ],
+    "userId": 41,
+    "image": "https://cdn.dummyjson.com/recipe-images/41.webp",
+    "rating": 4.7,
+    "reviewCount": 9,
+    "mealType": [
+      "Snack"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Chicken and Broccoli Stir-Fry",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into strips",
+      "1 tablespoon vegetable oil",
+      "1 large head of broccoli, cut into florets",
+      "1 red bell pepper, sliced",
+      "1/4 cup soy sauce",
+      "1 tablespoon cornstarch",
+      "1 tablespoon honey",
+      "1 teaspoon grated ginger",
+      "1 clove garlic, minced",
+      "1/4 cup water"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together soy sauce, cornstarch, honey, ginger, and garlic. Add water and set aside.",
+      "Heat vegetable oil in a large skillet or wok over medium-high heat. Add chicken strips and cook until browned and cooked through.",
+      "Add broccoli florets and red bell pepper. Stir-fry for 5-7 minutes, or until the vegetables are tender-crisp.",
+      "Pour the sauce over the chicken and vegetables and stir until the sauce has thickened and everything is coated.",
+      "Serve hot over rice."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Chicken",
+      "Asian",
+      "Quick",
+      "Dinner"
+    ],
+    "userId": 42,
+    "image": "https://cdn.dummyjson.com/recipe-images/42.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Mashed Potatoes",
+    "ingredients": [
+      "3 lbs potatoes, peeled and quartered",
+      "1/2 cup milk",
+      "1/4 cup butter",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, boil potatoes until tender. Drain well.",
+      "Return the potatoes to the pot. Mash with milk and butter.",
+      "Season with salt and black pepper to taste.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 250,
+    "tags": [
+      "Side dish",
+      "Comfort food",
+      "Vegetarian",
+      "Quick"
+    ],
+    "userId": 43,
+    "image": "https://cdn.dummyjson.com/recipe-images/43.webp",
+    "rating": 4.7,
+    "reviewCount": 11,
+    "mealType": [
+      "Side Dish"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Chicken Noodle Casserole",
+    "ingredients": [
+      "8 ounces egg noodles",
+      "2 cups shredded cooked chicken",
+      "1 (10.5 ounce) can cream of chicken soup",
+      "1/2 cup milk",
+      "1 cup frozen peas and carrots",
+      "1/2 cup shredded cheddar cheese",
+      "1/2 cup crushed potato chips (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Cook egg noodles according to package directions. Drain.",
+      "In a large bowl, combine the cooked egg noodles, shredded chicken, cream of chicken soup, milk, and frozen peas and carrots.",
+      "Stir until everything is well combined.",
+      "Pour the mixture into an 8x8 inch baking dish. Top with the shredded cheddar cheese and crushed potato chips (if using).",
+      "Bake for 20-25 minutes, or until the casserole is bubbly and the cheese is melted.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Casserole",
+      "Chicken",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 44,
+    "image": "https://cdn.dummyjson.com/recipe-images/44.webp",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Smashed Potatoes",
+    "ingredients": [
+      "2 lbs small potatoes",
+      "2 tablespoons olive oil",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1/4 cup grated Parmesan cheese",
+      "2 tablespoons chopped fresh parsley"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C).",
+      "In a large pot, boil potatoes until tender. Drain well.",
+      "Place the boiled potatoes on a baking sheet. Using a fork or the bottom of a glass, gently smash each potato until it is flattened.",
+      "Drizzle with olive oil and season with salt and black pepper.",
+      "Bake for 20-25 minutes, or until the potatoes are golden brown and crispy.",
+      "Sprinkle with Parmesan cheese and fresh parsley before serving."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 300,
+    "tags": [
+      "Side dish",
+      "Vegetarian",
+      "Quick"
+    ],
+    "userId": 45,
+    "image": "https://cdn.dummyjson.com/recipe-images/45.webp",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "mealType": [
+      "Side Dish"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Chicken and Rice",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into cubes",
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 cup long-grain rice",
+      "2 cups chicken broth",
+      "1/2 cup frozen peas and carrots",
+      "1/2 teaspoon dried thyme",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium-high heat. Add chicken cubes and cook until browned on all sides.",
+      "Remove chicken from the pot and set aside.",
+      "Add onion and cook until softened, about 5 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Add rice and stir to coat. Pour in chicken broth and bring to a boil.",
+      "Return the chicken to the pot. Stir in frozen peas and carrots and thyme. Season with salt and black pepper.",
+      "Reduce heat to low, cover, and simmer for 20 minutes, or until the rice is cooked through and the liquid has been absorbed.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Chicken",
+      "Rice",
+      "Quick",
+      "Dinner"
+    ],
+    "userId": 46,
+    "image": "https://cdn.dummyjson.com/recipe-images/46.webp",
+    "rating": 4.5,
+    "reviewCount": 9,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Beef and Broccoli",
+    "ingredients": [
+      "1 lb beef sirloin, thinly sliced",
+      "1 tablespoon vegetable oil",
+      "1 large head of broccoli, cut into florets",
+      "1/4 cup soy sauce",
+      "1 tablespoon cornstarch",
+      "1 tablespoon honey",
+      "1 teaspoon grated ginger",
+      "1 clove garlic, minced",
+      "1/4 cup water"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together soy sauce, cornstarch, honey, ginger, and garlic. Add water and set aside.",
+      "Heat vegetable oil in a large skillet or wok over medium-high heat. Add beef and cook until browned.",
+      "Add broccoli florets and stir-fry for 5-7 minutes, or until the vegetables are tender-crisp.",
+      "Pour the sauce over the beef and vegetables and stir until the sauce has thickened and everything is coated.",
+      "Serve hot over rice."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Beef",
+      "Asian",
+      "Dinner"
+    ],
+    "userId": 47,
+    "image": "https://cdn.dummyjson.com/recipe-images/47.webp",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Chicken Caesar Salad",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts",
+      "1 head of romaine lettuce, chopped",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "1/2 cup Caesar dressing",
+      "1 tablespoon olive oil",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Heat olive oil in a skillet over medium-high heat. Season chicken breasts with salt and black pepper.",
+      "Cook the chicken for 5-7 minutes per side, or until cooked through. Let rest for 5 minutes, then slice.",
+      "In a large bowl, combine the chopped romaine lettuce, croutons, and Parmesan cheese.",
+      "Pour the Caesar dressing over the salad and toss to coat.",
+      "Top with the sliced chicken and serve immediately."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Salad",
+      "Chicken",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 48,
+    "image": "https://cdn.dummyjson.com/recipe-images/48.webp",
+    "rating": 4.5,
+    "reviewCount": 8,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Chicken and Dumplings",
+    "ingredients": [
+      "1 tablespoon olive oil",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "1 cup chopped onion",
+      "2 cloves garlic, minced",
+      "8 cups chicken broth",
+      "2 cups shredded cooked chicken",
+      "1/2 teaspoon dried thyme",
+      "1/2 teaspoon dried rosemary",
+      "salt and black pepper to taste",
+      "2 cups all-purpose flour",
+      "1 tablespoon baking powder",
+      "1 teaspoon salt",
+      "1 cup milk",
+      "1/4 cup melted butter"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat. Add carrots, celery, and onion. Cook until softened, about 5-7 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in chicken broth and bring to a boil. Add shredded chicken, thyme, and rosemary.",
+      "In a separate bowl, whisk together flour, baking powder, and salt. Stir in milk and melted butter until just combined.",
+      "Drop the dumpling batter by spoonfuls into the simmering soup.",
+      "Reduce heat to low, cover, and cook for 15 minutes, or until the dumplings are cooked through.",
+      "Season with salt and black pepper to taste.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Soup",
+      "Chicken",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 49,
+    "image": "https://cdn.dummyjson.com/recipe-images/49.webp",
+    "rating": 4.7,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Baked Ziti",
+    "ingredients": [
+      "1 lb ziti pasta",
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 (28 ounce) can crushed tomatoes",
+      "1 (15 ounce) can tomato sauce",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon dried oregano",
+      "1/2 teaspoon dried basil",
+      "1 (15 ounce) container ricotta cheese",
+      "1 egg",
+      "1/4 cup grated Parmesan cheese",
+      "2 cups shredded mozzarella cheese"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Cook ziti pasta according to package directions. Drain.",
+      "In a large pot, brown ground beef with onion and garlic. Drain excess fat.",
+      "Stir in crushed tomatoes, tomato sauce, salt, pepper, oregano, and basil. Simmer for 15 minutes.",
+      "In a medium bowl, mix ricotta, egg, and Parmesan cheese.",
+      "In a large bowl, combine the cooked pasta, meat sauce, ricotta mixture, and half of the mozzarella cheese.",
+      "Pour the mixture into a 9x13 inch baking dish. Top with the remaining mozzarella cheese.",
+      "Bake for 20-25 minutes, or until the cheese is bubbly and golden brown.",
+      "Let stand for 10 minutes before serving."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 8,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Pasta",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 50,
+    "image": "https://cdn.dummyjson.com/recipe-images/50.webp",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Chicken and Waffles",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into strips",
+      "1 cup all-purpose flour",
+      "1 teaspoon paprika",
+      "1/2 teaspoon cayenne pepper",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 egg",
+      "1/2 cup milk",
+      "vegetable oil for frying",
+      "4 waffles, toasted",
+      "maple syrup for serving"
+    ],
+    "instructions": [
+      "In a shallow dish, combine flour, paprika, cayenne pepper, garlic powder, onion powder, salt, and black pepper.",
+      "In a separate shallow dish, whisk together egg and milk.",
+      "Dip each chicken strip into the milk mixture, then dredge in the flour mixture, pressing to coat.",
+      "Heat vegetable oil in a large skillet to 350°F (175°C).",
+      "Fry the chicken strips for 3-4 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate.",
+      "Serve the fried chicken on top of the toasted waffles. Drizzle with maple syrup."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 700,
+    "tags": [
+      "Breakfast",
+      "Chicken",
+      "Comfort food",
+      "American"
+    ],
+    "userId": 51,
+    "image": "https://cdn.dummyjson.com/recipe-images/51.webp",
+    "rating": 4.6,
+    "reviewCount": 11,
+    "mealType": [
+      "Breakfast"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Beef Stroganoff",
+    "ingredients": [
+      "1 lb beef sirloin, thinly sliced",
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "8 ounces mushrooms, sliced",
+      "2 cloves garlic, minced",
+      "1/2 cup beef broth",
+      "1/2 cup sour cream",
+      "1/4 cup heavy cream",
+      "1 tablespoon Dijon mustard",
+      "1/2 teaspoon paprika",
+      "salt and black pepper to taste",
+      "8 ounces egg noodles"
+    ],
+    "instructions": [
+      "Cook egg noodles according to package directions. Drain and set aside.",
+      "While the noodles are cooking, heat olive oil in a large skillet over medium-high heat. Add beef and cook until browned.",
+      "Remove beef from the skillet and set aside.",
+      "Add onion and mushrooms to the skillet and cook until softened.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in beef broth and bring to a simmer, scraping up any browned bits from the bottom of the skillet.",
+      "In a small bowl, whisk together sour cream, heavy cream, Dijon mustard, and paprika.",
+      "Reduce heat to low and stir the sour cream mixture into the skillet. Return the beef to the skillet and cook for 2-3 minutes, or until heated through. Do not boil.",
+      "Season with salt and black pepper to taste.",
+      "Serve the beef and sauce over the cooked egg noodles."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Russian",
+    "caloriesPerServing": 650,
+    "tags": [
+      "Beef",
+      "Pasta",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 52,
+    "image": "https://cdn.dummyjson.com/recipe-images/52.webp",
+    "rating": 4.5,
+    "reviewCount": 14,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Shepherd's Pie",
+    "ingredients": [
+      "1 lb ground lamb or beef",
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "2 cloves garlic, minced",
+      "1/2 cup beef broth",
+      "1/4 cup red wine (optional)",
+      "1 tablespoon tomato paste",
+      "1/2 teaspoon dried thyme",
+      "1/2 teaspoon dried rosemary",
+      "salt and black pepper to taste",
+      "3 lbs potatoes, peeled and quartered",
+      "1/2 cup milk",
+      "1/4 cup butter"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a large pot, boil potatoes until tender. Drain and mash with milk and butter. Season with salt and pepper.",
+      "While the potatoes are boiling, heat olive oil in a large skillet over medium-high heat. Add ground meat and cook until browned. Drain excess fat.",
+      "Add onion, carrots, and celery to the skillet. Cook until softened.",
+      "Stir in garlic, tomato paste, thyme, and rosemary. Cook for 1 minute.",
+      "Pour in beef broth and red wine (if using). Bring to a simmer and cook for 10 minutes, or until the sauce has thickened.",
+      "Season with salt and black pepper to taste.",
+      "Pour the meat mixture into a 9x13 inch baking dish. Top with the mashed potatoes, spreading evenly.",
+      "Use a fork to create ridges on the mashed potato topping.",
+      "Bake for 20-25 minutes, or until the topping is golden brown and the filling is bubbly."
+    ],
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "British",
+    "caloriesPerServing": 550,
+    "tags": [
+      "Pie",
+      "Beef",
+      "Lamb",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 53,
+    "image": "https://cdn.dummyjson.com/recipe-images/53.webp",
+    "rating": 4.6,
+    "reviewCount": 12,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Pad Thai",
+    "ingredients": [
+      "8 ounces dried rice noodles",
+      "2 tablespoons vegetable oil",
+      "2 cloves garlic, minced",
+      "8 ounces shrimp, peeled and deveined",
+      "1 cup bean sprouts",
+      "1/2 cup chopped peanuts",
+      "1/4 cup chopped fresh cilantro",
+      "1/4 cup fish sauce",
+      "1/4 cup tamarind paste",
+      "2 tablespoons lime juice",
+      "2 tablespoons brown sugar",
+      "1/4 teaspoon red pepper flakes",
+      "1 egg, scrambled"
+    ],
+    "instructions": [
+      "Soak rice noodles in warm water for 30 minutes, or until softened. Drain and set aside.",
+      "In a small bowl, whisk together fish sauce, tamarind paste, lime juice, brown sugar, and red pepper flakes. Set aside.",
+      "Heat vegetable oil in a large skillet or wok over medium-high heat. Add garlic and shrimp. Cook until shrimp is pink.",
+      "Push the shrimp and garlic to one side of the skillet. Pour the scrambled egg onto the other side and cook until set. Break up the egg with a spatula.",
+      "Add the softened noodles and the sauce to the skillet. Toss to combine and cook for 2-3 minutes.",
+      "Stir in bean sprouts and half of the peanuts. Toss to combine.",
+      "Serve hot, garnished with the remaining peanuts and fresh cilantro."
+    ],
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Hard",
+    "cuisine": "Thai",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Noodles",
+      "Thai",
+      "Dinner"
+    ],
+    "userId": 54,
+    "image": "https://cdn.dummyjson.com/recipe-images/54.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Chicken Parmesan",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "1 cup all-purpose flour",
+      "2 eggs, beaten",
+      "1 cup breadcrumbs",
+      "1/2 cup grated Parmesan cheese",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "vegetable oil for frying",
+      "2 cups marinara sauce",
+      "1 cup shredded mozzarella cheese"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Pound each chicken breast to a uniform thickness.",
+      "In a shallow dish, combine flour, salt, and black pepper.",
+      "In a separate shallow dish, place the beaten eggs.",
+      "In a third shallow dish, combine breadcrumbs and Parmesan cheese.",
+      "Dredge each chicken breast in the flour, then dip in the egg, and finally coat in the breadcrumb mixture, pressing to adhere.",
+      "Heat vegetable oil in a large skillet over medium-high heat. Fry the chicken for 3-4 minutes per side, or until golden brown.",
+      "Transfer the fried chicken to a baking dish. Top each piece with marinara sauce and mozzarella cheese.",
+      "Bake for 10-15 minutes, or until the cheese is melted and bubbly."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Chicken",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 55,
+    "image": "https://cdn.dummyjson.com/recipe-images/55.webp",
+    "rating": 4.6,
+    "reviewCount": 13,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Black Bean Burgers",
+    "ingredients": [
+      "1 (15 ounce) can black beans, rinsed and mashed",
+      "1/2 cup breadcrumbs",
+      "1/4 cup chopped onion",
+      "1/4 cup chopped bell pepper",
+      "1 clove garlic, minced",
+      "1 teaspoon ground cumin",
+      "1/2 teaspoon chili powder",
+      "1/4 cup chopped fresh cilantro",
+      "1 egg",
+      "salt and black pepper to taste",
+      "4 hamburger buns",
+      "lettuce, tomato, and avocado for serving"
+    ],
+    "instructions": [
+      "In a large bowl, combine the mashed black beans, breadcrumbs, onion, bell pepper, garlic, cumin, chili powder, cilantro, egg, salt, and black pepper.",
+      "Mix well and form into 4 patties.",
+      "Heat a lightly oiled skillet over medium-high heat. Cook the patties for 3-4 minutes per side, or until golden brown.",
+      "Serve the patties on the hamburger buns with lettuce, tomato, and avocado."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Vegetarian",
+      "Burger",
+      "Healthy",
+      "Lunch"
+    ],
+    "userId": 56,
+    "image": "https://cdn.dummyjson.com/recipe-images/56.webp",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Fish and Chips",
+    "ingredients": [
+      "1 lb cod fillets, cut into 2-inch pieces",
+      "1 cup all-purpose flour",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 cup cold beer",
+      "vegetable oil for frying",
+      "2 large potatoes, cut into fries"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together flour, baking powder, salt, and black pepper. Stir in the cold beer until just combined.",
+      "Heat vegetable oil in a large pot or deep fryer to 375°F (190°C).",
+      "Fry the potatoes in batches until golden brown and crispy. Drain on a paper towel-lined plate and season with salt.",
+      "Dip each piece of cod into the batter, letting any excess drip off.",
+      "Carefully place the battered fish in the hot oil. Fry for 3-4 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate.",
+      "Serve the fried fish with the fries."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "British",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Seafood",
+      "British",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 57,
+    "image": "https://cdn.dummyjson.com/recipe-images/57.webp",
+    "rating": 4.5,
+    "reviewCount": 11,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Chicken Pot Pie",
+    "ingredients": [
+      "1 sheet frozen puff pastry, thawed",
+      "1 tablespoon butter",
+      "1/2 cup chopped onion",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "2 cups shredded cooked chicken",
+      "1 cup frozen peas",
+      "1/2 cup all-purpose flour",
+      "2 cups chicken broth",
+      "1 cup heavy cream",
+      "1/2 teaspoon dried thyme",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a large pot, melt butter over medium heat. Add onion, carrots, and celery. Cook until softened, about 5-7 minutes.",
+      "Stir in flour and cook for 1 more minute.",
+      "Gradually whisk in chicken broth and heavy cream. Bring to a simmer, stirring constantly, until the sauce has thickened.",
+      "Stir in shredded chicken, peas, and thyme. Season with salt and black pepper to taste.",
+      "Pour the mixture into a 9-inch pie dish.",
+      "Place the puff pastry sheet over the pie dish, pressing it down the sides. Cut a few slits in the top to allow steam to escape.",
+      "Bake for 20-25 minutes, or until the crust is golden brown and the filling is bubbly."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 650,
+    "tags": [
+      "Pie",
+      "Chicken",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 58,
+    "image": "https://cdn.dummyjson.com/recipe-images/58.webp",
+    "rating": 4.6,
+    "reviewCount": 14,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Chicken Fajitas",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into strips",
+      "1 onion, sliced",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "2 tablespoons olive oil",
+      "1 packet fajita seasoning",
+      "8 flour tortillas",
+      "salsa, sour cream, and guacamole for serving"
+    ],
+    "instructions": [
+      "In a large skillet, heat olive oil over medium-high heat. Add chicken strips and cook until browned.",
+      "Add onion and bell peppers. Cook until softened, about 5-7 minutes.",
+      "Stir in the fajita seasoning and cook for 1 more minute.",
+      "Warm the tortillas according to package directions.",
+      "Serve the chicken and vegetable mixture in the warm tortillas with salsa, sour cream, and guacamole."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Chicken",
+      "Mexican",
+      "Dinner"
+    ],
+    "userId": 59,
+    "image": "https://cdn.dummyjson.com/recipe-images/59.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Broccoli Cheddar Soup",
+    "ingredients": [
+      "1 tablespoon butter",
+      "1/2 cup chopped onion",
+      "1 cup chopped carrots",
+      "2 cups broccoli florets",
+      "4 cups chicken or vegetable broth",
+      "1 cup heavy cream",
+      "2 cups shredded cheddar cheese",
+      "1/4 teaspoon nutmeg",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, melt butter over medium heat. Add onion and carrots. Cook until softened, about 5-7 minutes.",
+      "Add broccoli florets and cook for 2 more minutes.",
+      "Pour in chicken or vegetable broth and bring to a simmer. Cook for 10-15 minutes, or until the vegetables are tender.",
+      "Using an immersion blender, blend the soup until smooth. Alternatively, transfer the soup to a regular blender and blend in batches.",
+      "Stir in heavy cream and cheddar cheese. Cook until the cheese is melted and the soup is smooth. Do not boil.",
+      "Season with nutmeg, salt, and black pepper to taste.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Soup",
+      "Vegetarian",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 60,
+    "image": "https://cdn.dummyjson.com/recipe-images/60.webp",
+    "rating": 4.6,
+    "reviewCount": 12,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Lemon Herb Roasted Chicken",
+    "ingredients": [
+      "1 whole chicken, about 4 lbs",
+      "1 lemon, halved",
+      "1 head of garlic, halved",
+      "1 onion, quartered",
+      "2 tablespoons olive oil",
+      "1 tablespoon chopped fresh rosemary",
+      "1 tablespoon chopped fresh thyme",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C).",
+      "Pat the chicken dry with paper towels.",
+      "Rub the chicken all over with olive oil. Season with salt and black pepper.",
+      "Stuff the chicken cavity with the lemon halves, garlic halves, and onion quarters.",
+      "Sprinkle the chopped rosemary and thyme over the chicken.",
+      "Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until a meat thermometer inserted into the thickest part of the thigh reads 165°F (74°C).",
+      "Let the chicken rest for 10 minutes before carving and serving."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 75,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Chicken",
+      "Dinner"
+    ],
+    "userId": 61,
+    "image": "https://cdn.dummyjson.com/recipe-images/61.webp",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Spaghetti and Meatballs",
+    "ingredients": [
+      "1 lb spaghetti",
+      "1 lb ground beef",
+      "1/2 cup breadcrumbs",
+      "1/4 cup grated Parmesan cheese",
+      "1 egg",
+      "1 clove garlic, minced",
+      "1/4 cup chopped fresh parsley",
+      "1 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 (28 ounce) can crushed tomatoes",
+      "1 (15 ounce) can tomato sauce"
+    ],
+    "instructions": [
+      "In a large bowl, combine ground beef, breadcrumbs, Parmesan cheese, egg, garlic, parsley, salt, and black pepper. Mix well and form into 1-inch meatballs.",
+      "In a large pot, bring a pot of salted water to a boil. Cook spaghetti according to package directions. Drain.",
+      "While the pasta is cooking, brown the meatballs in a large skillet over medium-high heat. Drain excess fat.",
+      "Pour in crushed tomatoes and tomato sauce. Bring to a simmer, then reduce heat to low, cover, and cook for 20 minutes, or until the meatballs are cooked through.",
+      "Serve the meatballs and sauce over the cooked spaghetti."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 550,
+    "tags": [
+      "Pasta",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 62,
+    "image": "https://cdn.dummyjson.com/recipe-images/62.webp",
+    "rating": 4.5,
+    "reviewCount": 13,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Chicken Tenders",
+    "ingredients": [
+      "1 lb chicken tenders",
+      "1 cup all-purpose flour",
+      "2 eggs, beaten",
+      "1 cup breadcrumbs",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "vegetable oil for frying"
+    ],
+    "instructions": [
+      "In a shallow dish, combine flour, salt, and black pepper.",
+      "In a separate shallow dish, place the beaten eggs.",
+      "In a third shallow dish, place the breadcrumbs.",
+      "Dredge each chicken tender in the flour, then dip in the egg, and finally coat in the breadcrumbs.",
+      "Heat vegetable oil in a large skillet or deep fryer to 350°F (175°C).",
+      "Fry the chicken tenders in batches for 3-4 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate.",
+      "Serve with your favorite dipping sauces."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Chicken",
+      "Snack",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 63,
+    "image": "https://cdn.dummyjson.com/recipe-images/63.webp",
+    "rating": 4.7,
+    "reviewCount": 10,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Creamy Tomato Soup",
+    "ingredients": [
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 (28 ounce) can crushed tomatoes",
+      "2 cups vegetable broth",
+      "1/2 cup heavy cream",
+      "1/2 teaspoon dried basil",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat. Add onion and cook until softened, about 5 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in crushed tomatoes and vegetable broth. Bring to a simmer.",
+      "Using an immersion blender, blend the soup until smooth. Alternatively, transfer the soup to a regular blender and blend in batches.",
+      "Stir in heavy cream and dried basil. Cook for 2-3 minutes, or until heated through. Do not boil.",
+      "Season with salt and black pepper to taste.",
+      "Serve hot with a dollop of sour cream or croutons."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 250,
+    "tags": [
+      "Soup",
+      "Vegetarian",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 64,
+    "image": "https://cdn.dummyjson.com/recipe-images/64.webp",
+    "rating": 4.6,
+    "reviewCount": 8,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Apple Pie",
+    "ingredients": [
+      "1 pre-made pie crust",
+      "5 cups sliced apples",
+      "1/2 cup white sugar",
+      "1/4 cup packed brown sugar",
+      "2 tablespoons all-purpose flour",
+      "1 teaspoon ground cinnamon",
+      "1/4 teaspoon ground nutmeg",
+      "1 tablespoon lemon juice",
+      "1 tablespoon butter, cut into small pieces"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C).",
+      "In a large bowl, toss the sliced apples with white sugar, brown sugar, flour, cinnamon, nutmeg, and lemon juice.",
+      "Place one pie crust in a 9-inch pie dish. Pour the apple mixture into the crust.",
+      "Dot with the pieces of butter.",
+      "Top with the second pie crust, crimping the edges to seal. Cut a few slits in the top to allow steam to escape.",
+      "Bake for 15 minutes, then reduce the oven temperature to 375°F (190°C) and bake for an additional 40-45 minutes, or until the crust is golden brown and the filling is bubbly."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 60,
+    "servings": 8,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 300,
+    "tags": [
+      "Pie",
+      "Dessert",
+      "Baking"
+    ],
+    "userId": 65,
+    "image": "https://cdn.dummyjson.com/recipe-images/65.webp",
+    "rating": 4.7,
+    "reviewCount": 15,
+    "mealType": [
+      "Dessert"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Grilled Salmon",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 tablespoons olive oil",
+      "1 lemon, sliced",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "2 tablespoons chopped fresh dill"
+    ],
+    "instructions": [
+      "Preheat grill to medium-high heat.",
+      "Brush the salmon fillets with olive oil. Season with salt and black pepper.",
+      "Place the salmon on the grill, skin-side down. Top with a slice of lemon and sprinkle with fresh dill.",
+      "Grill for 6-8 minutes, or until the salmon is cooked through and flakes easily with a fork."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Seafood",
+      "Healthy",
+      "Quick",
+      "Dinner"
+    ],
+    "userId": 66,
+    "image": "https://cdn.dummyjson.com/recipe-images/66.webp",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Chicken Curry",
+    "ingredients": [
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tablespoon grated ginger",
+      "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+      "2 teaspoons curry powder",
+      "1 teaspoon turmeric",
+      "1/2 teaspoon garam masala",
+      "1 (15 ounce) can crushed tomatoes",
+      "1 (13.5 ounce) can coconut milk",
+      "1/4 cup chopped fresh cilantro",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat vegetable oil over medium-high heat. Add onion and cook until softened.",
+      "Stir in garlic and ginger and cook for 1 minute.",
+      "Add chicken and cook until browned on all sides.",
+      "Stir in curry powder, turmeric, and garam masala. Cook for 1 more minute.",
+      "Pour in crushed tomatoes and coconut milk. Bring to a simmer, then reduce heat to low, cover, and cook for 20 minutes, or until the chicken is cooked through.",
+      "Season with salt and black pepper to taste.",
+      "Stir in fresh cilantro and serve hot with rice."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Indian",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Curry",
+      "Chicken",
+      "Indian",
+      "Dinner"
+    ],
+    "userId": 67,
+    "image": "https://cdn.dummyjson.com/recipe-images/67.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Vegetable Fried Rice",
+    "ingredients": [
+      "2 tablespoons vegetable oil",
+      "1 cup chopped carrots",
+      "1 cup frozen peas",
+      "1/2 cup chopped onion",
+      "2 cloves garlic, minced",
+      "3 cups cooked rice, chilled",
+      "1/4 cup soy sauce",
+      "1 tablespoon sesame oil",
+      "2 eggs, beaten"
+    ],
+    "instructions": [
+      "In a large skillet or wok, heat vegetable oil over medium-high heat. Add carrots, peas, and onion. Cook until softened, about 5 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Push the vegetables to one side of the skillet. Pour the beaten eggs onto the other side and cook, scrambling with a spatula.",
+      "Stir the vegetables and eggs together. Add the chilled cooked rice and stir to combine.",
+      "Pour in the soy sauce and sesame oil. Stir-fry for 3-5 minutes, or until the rice is heated through and the flavors have melded.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Vegetarian",
+      "Rice",
+      "Asian",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 68,
+    "image": "https://cdn.dummyjson.com/recipe-images/68.webp",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Tuna Salad Sandwich",
+    "ingredients": [
+      "1 (5 ounce) can tuna, drained",
+      "1/4 cup mayonnaise",
+      "1 tablespoon chopped celery",
+      "1 tablespoon chopped red onion",
+      "1/2 teaspoon Dijon mustard",
+      "salt and black pepper to taste",
+      "2 slices of bread",
+      "lettuce for serving"
+    ],
+    "instructions": [
+      "In a medium bowl, combine tuna, mayonnaise, celery, red onion, and Dijon mustard. Mix well.",
+      "Season with salt and black pepper to taste.",
+      "Spread the tuna salad on one slice of bread. Top with lettuce and the second slice of bread.",
+      "Serve immediately."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 0,
+    "servings": 1,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Sandwich",
+      "Seafood",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 69,
+    "image": "https://cdn.dummyjson.com/recipe-images/69.webp",
+    "rating": 4.3,
+    "reviewCount": 7,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Chicken Alfredo",
+    "ingredients": [
+      "8 ounces fettuccine",
+      "2 boneless, skinless chicken breasts, cut into cubes",
+      "1 tablespoon olive oil",
+      "2 cloves garlic, minced",
+      "1 cup heavy cream",
+      "1/2 cup grated Parmesan cheese",
+      "1/4 cup chopped fresh parsley",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Cook fettuccine according to package directions. Drain.",
+      "While the pasta is cooking, heat olive oil in a large skillet over medium-high heat. Add chicken cubes and cook until browned and cooked through.",
+      "Remove chicken from the skillet and set aside.",
+      "Reduce heat to low. Add garlic to the skillet and cook for 1 minute until fragrant.",
+      "Pour in heavy cream and bring to a simmer. Cook for 3-5 minutes, or until the sauce has thickened.",
+      "Stir in Parmesan cheese until melted and the sauce is smooth.",
+      "Add the cooked fettuccine and chicken to the skillet. Toss to coat with the sauce.",
+      "Season with salt and black pepper to taste. Stir in fresh parsley.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 700,
+    "tags": [
+      "Pasta",
+      "Chicken",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 70,
+    "image": "https://cdn.dummyjson.com/recipe-images/70.webp",
+    "rating": 4.6,
+    "reviewCount": 11,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Mango Salsa",
+    "ingredients": [
+      "2 ripe mangoes, diced",
+      "1 red bell pepper, diced",
+      "1/2 red onion, finely diced",
+      "1 jalapeño, minced",
+      "1/4 cup chopped fresh cilantro",
+      "1 lime, juiced",
+      "1/2 teaspoon salt"
+    ],
+    "instructions": [
+      "In a medium bowl, combine the diced mangoes, red bell pepper, red onion, jalapeño, and cilantro.",
+      "Stir in the lime juice and salt.",
+      "Serve immediately with tortilla chips or grilled chicken or fish."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "caloriesPerServing": 100,
+    "tags": [
+      "Salsa",
+      "Appetizer",
+      "Mexican",
+      "Quick",
+      "Snack"
+    ],
+    "userId": 71,
+    "image": "https://cdn.dummyjson.com/recipe-images/71.webp",
+    "rating": 4.7,
+    "reviewCount": 9,
+    "mealType": [
+      "Snack"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Chicken and Broccoli Stir-Fry",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into strips",
+      "1 tablespoon vegetable oil",
+      "1 large head of broccoli, cut into florets",
+      "1/4 cup soy sauce",
+      "1 tablespoon cornstarch",
+      "1 tablespoon honey",
+      "1 teaspoon grated ginger",
+      "1 clove garlic, minced",
+      "1/4 cup water"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together soy sauce, cornstarch, honey, ginger, and garlic. Add water and set aside.",
+      "Heat vegetable oil in a large skillet or wok over medium-high heat. Add chicken strips and cook until browned and cooked through.",
+      "Add broccoli florets and red bell pepper. Stir-fry for 5-7 minutes, or until the vegetables are tender-crisp.",
+      "Pour the sauce over the chicken and vegetables and stir until the sauce has thickened and everything is coated.",
+      "Serve hot over rice."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Chicken",
+      "Asian",
+      "Quick",
+      "Dinner"
+    ],
+    "userId": 72,
+    "image": "https://cdn.dummyjson.com/recipe-images/72.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Mashed Potatoes",
+    "ingredients": [
+      "3 lbs potatoes, peeled and quartered",
+      "1/2 cup milk",
+      "1/4 cup butter",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, boil potatoes until tender. Drain well.",
+      "Return the potatoes to the pot. Mash with milk and butter.",
+      "Season with salt and black pepper to taste.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 250,
+    "tags": [
+      "Side dish",
+      "Comfort food",
+      "Vegetarian",
+      "Quick"
+    ],
+    "userId": 73,
+    "image": "https://cdn.dummyjson.com/recipe-images/73.webp",
+    "rating": 4.7,
+    "reviewCount": 11,
+    "mealType": [
+      "Side Dish"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Chicken Noodle Casserole",
+    "ingredients": [
+      "8 ounces egg noodles",
+      "2 cups shredded cooked chicken",
+      "1 (10.5 ounce) can cream of chicken soup",
+      "1/2 cup milk",
+      "1 cup frozen peas and carrots",
+      "1/2 cup shredded cheddar cheese",
+      "1/2 cup crushed potato chips (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Cook egg noodles according to package directions. Drain.",
+      "In a large bowl, combine the cooked egg noodles, shredded chicken, cream of chicken soup, milk, and frozen peas and carrots.",
+      "Stir until everything is well combined.",
+      "Pour the mixture into an 8x8 inch baking dish. Top with the shredded cheddar cheese and crushed potato chips (if using).",
+      "Bake for 20-25 minutes, or until the casserole is bubbly and the cheese is melted.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Casserole",
+      "Chicken",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 74,
+    "image": "https://cdn.dummyjson.com/recipe-images/74.webp",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Smashed Potatoes",
+    "ingredients": [
+      "2 lbs small potatoes",
+      "2 tablespoons olive oil",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1/4 cup grated Parmesan cheese",
+      "2 tablespoons chopped fresh parsley"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C).",
+      "In a large pot, boil potatoes until tender. Drain well.",
+      "Place the boiled potatoes on a baking sheet. Using a fork or the bottom of a glass, gently smash each potato until it is flattened.",
+      "Drizzle with olive oil and season with salt and black pepper.",
+      "Bake for 20-25 minutes, or until the potatoes are golden brown and crispy.",
+      "Sprinkle with Parmesan cheese and fresh parsley before serving."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 300,
+    "tags": [
+      "Side dish",
+      "Vegetarian",
+      "Quick"
+    ],
+    "userId": 75,
+    "image": "https://cdn.dummyjson.com/recipe-images/75.webp",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "mealType": [
+      "Side Dish"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Chicken and Rice",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into cubes",
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 cup long-grain rice",
+      "2 cups chicken broth",
+      "1/2 cup frozen peas and carrots",
+      "1/2 teaspoon dried thyme",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium-high heat. Add chicken cubes and cook until browned on all sides.",
+      "Remove chicken from the pot and set aside.",
+      "Add onion and cook until softened, about 5 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Add rice and stir to coat. Pour in chicken broth and bring to a boil.",
+      "Return the chicken to the pot. Stir in frozen peas and carrots and thyme. Season with salt and black pepper.",
+      "Reduce heat to low, cover, and simmer for 20 minutes, or until the rice is cooked through and the liquid has been absorbed.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Chicken",
+      "Rice",
+      "Quick",
+      "Dinner"
+    ],
+    "userId": 76,
+    "image": "https://cdn.dummyjson.com/recipe-images/76.webp",
+    "rating": 4.5,
+    "reviewCount": 9,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Beef and Broccoli",
+    "ingredients": [
+      "1 lb beef sirloin, thinly sliced",
+      "1 tablespoon vegetable oil",
+      "1 large head of broccoli, cut into florets",
+      "1/4 cup soy sauce",
+      "1 tablespoon cornstarch",
+      "1 tablespoon honey",
+      "1 teaspoon grated ginger",
+      "1 clove garlic, minced",
+      "1/4 cup water"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together soy sauce, cornstarch, honey, ginger, and garlic. Add water and set aside.",
+      "Heat vegetable oil in a large skillet or wok over medium-high heat. Add beef and cook until browned.",
+      "Add broccoli florets and stir-fry for 5-7 minutes, or until the vegetables are tender-crisp.",
+      "Pour the sauce over the beef and vegetables and stir until the sauce has thickened and everything is coated.",
+      "Serve hot over rice."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Beef",
+      "Asian",
+      "Dinner"
+    ],
+    "userId": 77,
+    "image": "https://cdn.dummyjson.com/recipe-images/77.webp",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Chicken Caesar Salad",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts",
+      "1 head of romaine lettuce, chopped",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "1/2 cup Caesar dressing",
+      "1 tablespoon olive oil",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Heat olive oil in a skillet over medium-high heat. Season chicken breasts with salt and black pepper.",
+      "Cook the chicken for 5-7 minutes per side, or until cooked through. Let rest for 5 minutes, then slice.",
+      "In a large bowl, combine the chopped romaine lettuce, croutons, and Parmesan cheese.",
+      "Pour the Caesar dressing over the salad and toss to coat.",
+      "Top with the sliced chicken and serve immediately."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Salad",
+      "Chicken",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 78,
+    "image": "https://cdn.dummyjson.com/recipe-images/78.webp",
+    "rating": 4.5,
+    "reviewCount": 8,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Chicken and Dumplings",
+    "ingredients": [
+      "1 tablespoon olive oil",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "1 cup chopped onion",
+      "2 cloves garlic, minced",
+      "8 cups chicken broth",
+      "2 cups shredded cooked chicken",
+      "1/2 teaspoon dried thyme",
+      "1/2 teaspoon dried rosemary",
+      "salt and black pepper to taste",
+      "2 cups all-purpose flour",
+      "1 tablespoon baking powder",
+      "1 teaspoon salt",
+      "1 cup milk",
+      "1/4 cup melted butter"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat. Add carrots, celery, and onion. Cook until softened, about 5-7 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in chicken broth and bring to a boil. Add shredded chicken, thyme, and rosemary.",
+      "In a separate bowl, whisk together flour, baking powder, and salt. Stir in milk and melted butter until just combined.",
+      "Drop the dumpling batter by spoonfuls into the simmering soup.",
+      "Reduce heat to low, cover, and cook for 15 minutes, or until the dumplings are cooked through.",
+      "Season with salt and black pepper to taste.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Soup",
+      "Chicken",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 79,
+    "image": "https://cdn.dummyjson.com/recipe-images/79.webp",
+    "rating": 4.7,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Baked Ziti",
+    "ingredients": [
+      "1 lb ziti pasta",
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 (28 ounce) can crushed tomatoes",
+      "1 (15 ounce) can tomato sauce",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon dried oregano",
+      "1/2 teaspoon dried basil",
+      "1 (15 ounce) container ricotta cheese",
+      "1 egg",
+      "1/4 cup grated Parmesan cheese",
+      "2 cups shredded mozzarella cheese"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Cook ziti pasta according to package directions. Drain.",
+      "In a large pot, brown ground beef with onion and garlic. Drain excess fat.",
+      "Stir in crushed tomatoes, tomato sauce, salt, pepper, oregano, and basil. Simmer for 15 minutes.",
+      "In a medium bowl, mix ricotta, egg, and Parmesan cheese.",
+      "In a large bowl, combine the cooked pasta, meat sauce, ricotta mixture, and half of the mozzarella cheese.",
+      "Pour the mixture into a 9x13 inch baking dish. Top with the remaining mozzarella cheese.",
+      "Bake for 20-25 minutes, or until the cheese is bubbly and golden brown.",
+      "Let stand for 10 minutes before serving."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 8,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Pasta",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 80,
+    "image": "https://cdn.dummyjson.com/recipe-images/80.webp",
+    "rating": 4.4,
+    "reviewCount": 13,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Chicken and Waffles",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into strips",
+      "1 cup all-purpose flour",
+      "1 teaspoon paprika",
+      "1/2 teaspoon cayenne pepper",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 egg",
+      "1/2 cup milk",
+      "vegetable oil for frying",
+      "4 waffles, toasted",
+      "maple syrup for serving"
+    ],
+    "instructions": [
+      "In a shallow dish, combine flour, paprika, cayenne pepper, garlic powder, onion powder, salt, and black pepper.",
+      "In a separate shallow dish, whisk together egg and milk.",
+      "Dip each chicken strip into the milk mixture, then dredge in the flour mixture, pressing to coat.",
+      "Heat vegetable oil in a large skillet to 350°F (175°C).",
+      "Fry the chicken strips for 3-4 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate.",
+      "Serve the fried chicken on top of the toasted waffles. Drizzle with maple syrup."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 700,
+    "tags": [
+      "Breakfast",
+      "Chicken",
+      "Comfort food",
+      "American"
+    ],
+    "userId": 81,
+    "image": "https://cdn.dummyjson.com/recipe-images/81.webp",
+    "rating": 4.6,
+    "reviewCount": 11,
+    "mealType": [
+      "Breakfast"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Beef Stroganoff",
+    "ingredients": [
+      "1 lb beef sirloin, thinly sliced",
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "8 ounces mushrooms, sliced",
+      "2 cloves garlic, minced",
+      "1/2 cup beef broth",
+      "1/2 cup sour cream",
+      "1/4 cup heavy cream",
+      "1 tablespoon Dijon mustard",
+      "1/2 teaspoon paprika",
+      "salt and black pepper to taste",
+      "8 ounces egg noodles"
+    ],
+    "instructions": [
+      "Cook egg noodles according to package directions. Drain and set aside.",
+      "While the noodles are cooking, heat olive oil in a large skillet over medium-high heat. Add beef and cook until browned.",
+      "Remove beef from the skillet and set aside.",
+      "Add onion and mushrooms to the skillet and cook until softened.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in beef broth and bring to a simmer, scraping up any browned bits from the bottom of the skillet.",
+      "In a small bowl, whisk together sour cream, heavy cream, Dijon mustard, and paprika.",
+      "Reduce heat to low and stir the sour cream mixture into the skillet. Return the beef to the skillet and cook for 2-3 minutes, or until heated through. Do not boil.",
+      "Season with salt and black pepper to taste.",
+      "Serve the beef and sauce over the cooked egg noodles."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Russian",
+    "caloriesPerServing": 650,
+    "tags": [
+      "Beef",
+      "Pasta",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 82,
+    "image": "https://cdn.dummyjson.com/recipe-images/82.webp",
+    "rating": 4.5,
+    "reviewCount": 14,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Shepherd's Pie",
+    "ingredients": [
+      "1 lb ground lamb or beef",
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "2 cloves garlic, minced",
+      "1/2 cup beef broth",
+      "1/4 cup red wine (optional)",
+      "1 tablespoon tomato paste",
+      "1/2 teaspoon dried thyme",
+      "1/2 teaspoon dried rosemary",
+      "salt and black pepper to taste",
+      "3 lbs potatoes, peeled and quartered",
+      "1/2 cup milk",
+      "1/4 cup butter"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a large pot, boil potatoes until tender. Drain and mash with milk and butter. Season with salt and pepper.",
+      "While the potatoes are boiling, heat olive oil in a large skillet over medium-high heat. Add ground meat and cook until browned. Drain excess fat.",
+      "Add onion, carrots, and celery to the skillet. Cook until softened.",
+      "Stir in garlic, tomato paste, thyme, and rosemary. Cook for 1 minute.",
+      "Pour in beef broth and red wine (if using). Bring to a simmer and cook for 10 minutes, or until the sauce has thickened.",
+      "Season with salt and black pepper to taste.",
+      "Pour the meat mixture into a 9x13 inch baking dish. Top with the mashed potatoes, spreading evenly.",
+      "Use a fork to create ridges on the mashed potato topping.",
+      "Bake for 20-25 minutes, or until the topping is golden brown and the filling is bubbly."
+    ],
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "British",
+    "caloriesPerServing": 550,
+    "tags": [
+      "Pie",
+      "Beef",
+      "Lamb",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 83,
+    "image": "https://cdn.dummyjson.com/recipe-images/83.webp",
+    "rating": 4.6,
+    "reviewCount": 12,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Pad Thai",
+    "ingredients": [
+      "8 ounces dried rice noodles",
+      "2 tablespoons vegetable oil",
+      "2 cloves garlic, minced",
+      "8 ounces shrimp, peeled and deveined",
+      "1 cup bean sprouts",
+      "1/2 cup chopped peanuts",
+      "1/4 cup chopped fresh cilantro",
+      "1/4 cup fish sauce",
+      "1/4 cup tamarind paste",
+      "2 tablespoons lime juice",
+      "2 tablespoons brown sugar",
+      "1/4 teaspoon red pepper flakes",
+      "1 egg, scrambled"
+    ],
+    "instructions": [
+      "Soak rice noodles in warm water for 30 minutes, or until softened. Drain and set aside.",
+      "In a small bowl, whisk together fish sauce, tamarind paste, lime juice, brown sugar, and red pepper flakes. Set aside.",
+      "Heat vegetable oil in a large skillet or wok over medium-high heat. Add garlic and shrimp. Cook until shrimp is pink.",
+      "Push the shrimp and garlic to one side of the skillet. Pour the scrambled egg onto the other side and cook until set. Break up the egg with a spatula.",
+      "Add the softened noodles and the sauce to the skillet. Toss to combine and cook for 2-3 minutes.",
+      "Stir in bean sprouts and half of the peanuts. Toss to combine.",
+      "Serve hot, garnished with the remaining peanuts and fresh cilantro."
+    ],
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Hard",
+    "cuisine": "Thai",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Noodles",
+      "Thai",
+      "Dinner"
+    ],
+    "userId": 84,
+    "image": "https://cdn.dummyjson.com/recipe-images/84.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Chicken Parmesan",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "1 cup all-purpose flour",
+      "2 eggs, beaten",
+      "1 cup breadcrumbs",
+      "1/2 cup grated Parmesan cheese",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "vegetable oil for frying",
+      "2 cups marinara sauce",
+      "1 cup shredded mozzarella cheese"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Pound each chicken breast to a uniform thickness.",
+      "In a shallow dish, combine flour, salt, and black pepper.",
+      "In a separate shallow dish, place the beaten eggs.",
+      "In a third shallow dish, combine breadcrumbs and Parmesan cheese.",
+      "Dredge each chicken breast in the flour, then dip in the egg, and finally coat in the breadcrumb mixture, pressing to adhere.",
+      "Heat vegetable oil in a large skillet over medium-high heat. Fry the chicken for 3-4 minutes per side, or until golden brown.",
+      "Transfer the fried chicken to a baking dish. Top each piece with marinara sauce and mozzarella cheese.",
+      "Bake for 10-15 minutes, or until the cheese is melted and bubbly."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Chicken",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 85,
+    "image": "https://cdn.dummyjson.com/recipe-images/85.webp",
+    "rating": 4.6,
+    "reviewCount": 13,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Black Bean Burgers",
+    "ingredients": [
+      "1 (15 ounce) can black beans, rinsed and mashed",
+      "1/2 cup breadcrumbs",
+      "1/4 cup chopped onion",
+      "1/4 cup chopped bell pepper",
+      "1 clove garlic, minced",
+      "1 teaspoon ground cumin",
+      "1/2 teaspoon chili powder",
+      "1/4 cup chopped fresh cilantro",
+      "1 egg",
+      "salt and black pepper to taste",
+      "4 hamburger buns",
+      "lettuce, tomato, and avocado for serving"
+    ],
+    "instructions": [
+      "In a large bowl, combine the mashed black beans, breadcrumbs, onion, bell pepper, garlic, cumin, chili powder, cilantro, egg, salt, and black pepper.",
+      "Mix well and form into 4 patties.",
+      "Heat a lightly oiled skillet over medium-high heat. Cook the patties for 3-4 minutes per side, or until golden brown.",
+      "Serve the patties on the hamburger buns with lettuce, tomato, and avocado."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Vegetarian",
+      "Burger",
+      "Healthy",
+      "Lunch"
+    ],
+    "userId": 86,
+    "image": "https://cdn.dummyjson.com/recipe-images/86.webp",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Fish and Chips",
+    "ingredients": [
+      "1 lb cod fillets, cut into 2-inch pieces",
+      "1 cup all-purpose flour",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 cup cold beer",
+      "vegetable oil for frying",
+      "2 large potatoes, cut into fries"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together flour, baking powder, salt, and black pepper. Stir in the cold beer until just combined.",
+      "Heat vegetable oil in a large pot or deep fryer to 375°F (190°C).",
+      "Fry the potatoes in batches until golden brown and crispy. Drain on a paper towel-lined plate and season with salt.",
+      "Dip each piece of cod into the batter, letting any excess drip off.",
+      "Carefully place the battered fish in the hot oil. Fry for 3-4 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate.",
+      "Serve the fried fish with the fries."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "British",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Seafood",
+      "British",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 87,
+    "image": "https://cdn.dummyjson.com/recipe-images/87.webp",
+    "rating": 4.5,
+    "reviewCount": 11,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Chicken Pot Pie",
+    "ingredients": [
+      "1 sheet frozen puff pastry, thawed",
+      "1 tablespoon butter",
+      "1/2 cup chopped onion",
+      "1 cup chopped carrots",
+      "1 cup chopped celery",
+      "2 cups shredded cooked chicken",
+      "1 cup frozen peas",
+      "1/2 cup all-purpose flour",
+      "2 cups chicken broth",
+      "1 cup heavy cream",
+      "1/2 teaspoon dried thyme",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a large pot, melt butter over medium heat. Add onion, carrots, and celery. Cook until softened, about 5-7 minutes.",
+      "Stir in flour and cook for 1 more minute.",
+      "Gradually whisk in chicken broth and heavy cream. Bring to a simmer, stirring constantly, until the sauce has thickened.",
+      "Stir in shredded chicken, peas, and thyme. Season with salt and black pepper to taste.",
+      "Pour the mixture into a 9-inch pie dish.",
+      "Place the puff pastry sheet over the pie dish, pressing it down the sides. Cut a few slits in the top to allow steam to escape.",
+      "Bake for 20-25 minutes, or until the crust is golden brown and the filling is bubbly."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 650,
+    "tags": [
+      "Pie",
+      "Chicken",
+      "Comfort food",
+      "Dinner"
+    ],
+    "userId": 88,
+    "image": "https://cdn.dummyjson.com/recipe-images/88.webp",
+    "rating": 4.6,
+    "reviewCount": 14,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Chicken Fajitas",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into strips",
+      "1 onion, sliced",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "2 tablespoons olive oil",
+      "1 packet fajita seasoning",
+      "8 flour tortillas",
+      "salsa, sour cream, and guacamole for serving"
+    ],
+    "instructions": [
+      "In a large skillet, heat olive oil over medium-high heat. Add chicken strips and cook until browned.",
+      "Add onion and bell peppers. Cook until softened, about 5-7 minutes.",
+      "Stir in the fajita seasoning and cook for 1 more minute.",
+      "Warm the tortillas according to package directions.",
+      "Serve the chicken and vegetable mixture in the warm tortillas with salsa, sour cream, and guacamole."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "caloriesPerServing": 450,
+    "tags": [
+      "Chicken",
+      "Mexican",
+      "Dinner"
+    ],
+    "userId": 89,
+    "image": "https://cdn.dummyjson.com/recipe-images/89.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Broccoli Cheddar Soup",
+    "ingredients": [
+      "1 tablespoon butter",
+      "1/2 cup chopped onion",
+      "1 cup chopped carrots",
+      "2 cups broccoli florets",
+      "4 cups chicken or vegetable broth",
+      "1 cup heavy cream",
+      "2 cups shredded cheddar cheese",
+      "1/4 teaspoon nutmeg",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, melt butter over medium heat. Add onion and carrots. Cook until softened, about 5-7 minutes.",
+      "Add broccoli florets and cook for 2 more minutes.",
+      "Pour in chicken or vegetable broth and bring to a simmer. Cook for 10-15 minutes, or until the vegetables are tender.",
+      "Using an immersion blender, blend the soup until smooth. Alternatively, transfer the soup to a regular blender and blend in batches.",
+      "Stir in heavy cream and cheddar cheese. Cook until the cheese is melted and the soup is smooth. Do not boil.",
+      "Season with nutmeg, salt, and black pepper to taste.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Soup",
+      "Vegetarian",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 90,
+    "image": "https://cdn.dummyjson.com/recipe-images/90.webp",
+    "rating": 4.6,
+    "reviewCount": 12,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Lemon Herb Roasted Chicken",
+    "ingredients": [
+      "1 whole chicken, about 4 lbs",
+      "1 lemon, halved",
+      "1 head of garlic, halved",
+      "1 onion, quartered",
+      "2 tablespoons olive oil",
+      "1 tablespoon chopped fresh rosemary",
+      "1 tablespoon chopped fresh thyme",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C).",
+      "Pat the chicken dry with paper towels.",
+      "Rub the chicken all over with olive oil. Season with salt and black pepper.",
+      "Stuff the chicken cavity with the lemon halves, garlic halves, and onion quarters.",
+      "Sprinkle the chopped rosemary and thyme over the chicken.",
+      "Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until a meat thermometer inserted into the thickest part of the thigh reads 165°F (74°C).",
+      "Let the chicken rest for 10 minutes before carving and serving."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 75,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 600,
+    "tags": [
+      "Chicken",
+      "Dinner"
+    ],
+    "userId": 91,
+    "image": "https://cdn.dummyjson.com/recipe-images/91.webp",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Spaghetti and Meatballs",
+    "ingredients": [
+      "1 lb spaghetti",
+      "1 lb ground beef",
+      "1/2 cup breadcrumbs",
+      "1/4 cup grated Parmesan cheese",
+      "1 egg",
+      "1 clove garlic, minced",
+      "1/4 cup chopped fresh parsley",
+      "1 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 (28 ounce) can crushed tomatoes",
+      "1 (15 ounce) can tomato sauce"
+    ],
+    "instructions": [
+      "In a large bowl, combine ground beef, breadcrumbs, Parmesan cheese, egg, garlic, parsley, salt, and black pepper. Mix well and form into 1-inch meatballs.",
+      "In a large pot, bring a pot of salted water to a boil. Cook spaghetti according to package directions. Drain.",
+      "While the pasta is cooking, brown the meatballs in a large skillet over medium-high heat. Drain excess fat.",
+      "Pour in crushed tomatoes and tomato sauce. Bring to a simmer, then reduce heat to low, cover, and cook for 20 minutes, or until the meatballs are cooked through.",
+      "Serve the meatballs and sauce over the cooked spaghetti."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 6,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 550,
+    "tags": [
+      "Pasta",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 92,
+    "image": "https://cdn.dummyjson.com/recipe-images/92.webp",
+    "rating": 4.5,
+    "reviewCount": 13,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Chicken Tenders",
+    "ingredients": [
+      "1 lb chicken tenders",
+      "1 cup all-purpose flour",
+      "2 eggs, beaten",
+      "1 cup breadcrumbs",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "vegetable oil for frying"
+    ],
+    "instructions": [
+      "In a shallow dish, combine flour, salt, and black pepper.",
+      "In a separate shallow dish, place the beaten eggs.",
+      "In a third shallow dish, place the breadcrumbs.",
+      "Dredge each chicken tender in the flour, then dip in the egg, and finally coat in the breadcrumbs.",
+      "Heat vegetable oil in a large skillet or deep fryer to 350°F (175°C).",
+      "Fry the chicken tenders in batches for 3-4 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate.",
+      "Serve with your favorite dipping sauces."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Chicken",
+      "Snack",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 93,
+    "image": "https://cdn.dummyjson.com/recipe-images/93.webp",
+    "rating": 4.7,
+    "reviewCount": 10,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Creamy Tomato Soup",
+    "ingredients": [
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 (28 ounce) can crushed tomatoes",
+      "2 cups vegetable broth",
+      "1/2 cup heavy cream",
+      "1/2 teaspoon dried basil",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat. Add onion and cook until softened, about 5 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Pour in crushed tomatoes and vegetable broth. Bring to a simmer.",
+      "Using an immersion blender, blend the soup until smooth. Alternatively, transfer the soup to a regular blender and blend in batches.",
+      "Stir in heavy cream and dried basil. Cook for 2-3 minutes, or until heated through. Do not boil.",
+      "Season with salt and black pepper to taste.",
+      "Serve hot with a dollop of sour cream or croutons."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 250,
+    "tags": [
+      "Soup",
+      "Vegetarian",
+      "Comfort food",
+      "Lunch"
+    ],
+    "userId": 94,
+    "image": "https://cdn.dummyjson.com/recipe-images/94.webp",
+    "rating": 4.6,
+    "reviewCount": 8,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Apple Pie",
+    "ingredients": [
+      "1 pre-made pie crust",
+      "5 cups sliced apples",
+      "1/2 cup white sugar",
+      "1/4 cup packed brown sugar",
+      "2 tablespoons all-purpose flour",
+      "1 teaspoon ground cinnamon",
+      "1/4 teaspoon ground nutmeg",
+      "1 tablespoon lemon juice",
+      "1 tablespoon butter, cut into small pieces"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C).",
+      "In a large bowl, toss the sliced apples with white sugar, brown sugar, flour, cinnamon, nutmeg, and lemon juice.",
+      "Place one pie crust in a 9-inch pie dish. Pour the apple mixture into the crust.",
+      "Dot with the pieces of butter.",
+      "Top with the second pie crust, crimping the edges to seal. Cut a few slits in the top to allow steam to escape.",
+      "Bake for 15 minutes, then reduce the oven temperature to 375°F (190°C) and bake for an additional 40-45 minutes, or until the crust is golden brown and the filling is bubbly."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 60,
+    "servings": 8,
+    "difficulty": "Medium",
+    "cuisine": "American",
+    "caloriesPerServing": 300,
+    "tags": [
+      "Pie",
+      "Dessert",
+      "Baking"
+    ],
+    "userId": 95,
+    "image": "https://cdn.dummyjson.com/recipe-images/95.webp",
+    "rating": 4.7,
+    "reviewCount": 15,
+    "mealType": [
+      "Dessert"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Grilled Salmon",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 tablespoons olive oil",
+      "1 lemon, sliced",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "2 tablespoons chopped fresh dill"
+    ],
+    "instructions": [
+      "Preheat grill to medium-high heat.",
+      "Brush the salmon fillets with olive oil. Season with salt and black pepper.",
+      "Place the salmon on the grill, skin-side down. Top with a slice of lemon and sprinkle with fresh dill.",
+      "Grill for 6-8 minutes, or until the salmon is cooked through and flakes easily with a fork."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Seafood",
+      "Healthy",
+      "Quick",
+      "Dinner"
+    ],
+    "userId": 96,
+    "image": "https://cdn.dummyjson.com/recipe-images/96.webp",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Chicken Curry",
+    "ingredients": [
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tablespoon grated ginger",
+      "1 lb boneless, skinless chicken breast, cut into 1-inch cubes",
+      "2 teaspoons curry powder",
+      "1 teaspoon turmeric",
+      "1/2 teaspoon garam masala",
+      "1 (15 ounce) can crushed tomatoes",
+      "1 (13.5 ounce) can coconut milk",
+      "1/4 cup chopped fresh cilantro",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat vegetable oil over medium-high heat. Add onion and cook until softened.",
+      "Stir in garlic and ginger and cook for 1 minute.",
+      "Add chicken and cook until browned on all sides.",
+      "Stir in curry powder, turmeric, and garam masala. Cook for 1 more minute.",
+      "Pour in crushed tomatoes and coconut milk. Bring to a simmer, then reduce heat to low, cover, and cook for 20 minutes, or until the chicken is cooked through.",
+      "Season with salt and black pepper to taste.",
+      "Stir in fresh cilantro and serve hot with rice."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Indian",
+    "caloriesPerServing": 500,
+    "tags": [
+      "Curry",
+      "Chicken",
+      "Indian",
+      "Dinner"
+    ],
+    "userId": 97,
+    "image": "https://cdn.dummyjson.com/recipe-images/97.webp",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "mealType": [
+      "Dinner"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Vegetable Fried Rice",
+    "ingredients": [
+      "2 tablespoons vegetable oil",
+      "1 cup chopped carrots",
+      "1 cup frozen peas",
+      "1/2 cup chopped onion",
+      "2 cloves garlic, minced",
+      "3 cups cooked rice, chilled",
+      "1/4 cup soy sauce",
+      "1 tablespoon sesame oil",
+      "2 eggs, beaten"
+    ],
+    "instructions": [
+      "In a large skillet or wok, heat vegetable oil over medium-high heat. Add carrots, peas, and onion. Cook until softened, about 5 minutes.",
+      "Stir in garlic and cook for 1 more minute.",
+      "Push the vegetables to one side of the skillet. Pour the beaten eggs onto the other side and cook, scrambling with a spatula.",
+      "Stir the vegetables and eggs together. Add the chilled cooked rice and stir to combine.",
+      "Pour in the soy sauce and sesame oil. Stir-fry for 3-5 minutes, or until the rice is heated through and the flavors have melded.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "caloriesPerServing": 400,
+    "tags": [
+      "Vegetarian",
+      "Rice",
+      "Asian",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 98,
+    "image": "https://cdn.dummyjson.com/recipe-images/98.webp",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Tuna Salad Sandwich",
+    "ingredients": [
+      "1 (5 ounce) can tuna, drained",
+      "1/4 cup mayonnaise",
+      "1 tablespoon chopped celery",
+      "1 tablespoon chopped red onion",
+      "1/2 teaspoon Dijon mustard",
+      "salt and black pepper to taste",
+      "2 slices of bread",
+      "lettuce for serving"
+    ],
+    "instructions": [
+      "In a medium bowl, combine tuna, mayonnaise, celery, red onion, and Dijon mustard. Mix well.",
+      "Season with salt and black pepper to taste.",
+      "Spread the tuna salad on one slice of bread. Top with lettuce and the second slice of bread.",
+      "Serve immediately."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 0,
+    "servings": 1,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "caloriesPerServing": 350,
+    "tags": [
+      "Sandwich",
+      "Seafood",
+      "Quick",
+      "Lunch"
+    ],
+    "userId": 99,
+    "image": "https://cdn.dummyjson.com/recipe-images/99.webp",
+    "rating": 4.3,
+    "reviewCount": 7,
+    "mealType": [
+      "Lunch"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Chicken Alfredo",
+    "ingredients": [
+      "8 ounces fettuccine",
+      "2 boneless, skinless chicken breasts, cut into cubes",
+      "1 tablespoon olive oil",
+      "2 cloves garlic, minced",
+      "1 cup heavy cream",
+      "1/2 cup grated Parmesan cheese",
+      "1/4 cup chopped fresh parsley",
+      "salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Cook fettuccine according to package directions. Drain.",
+      "While the pasta is cooking, heat olive oil in a large skillet over medium-high heat. Add chicken cubes and cook until browned and cooked through.",
+      "Remove chicken from the skillet and set aside.",
+      "Reduce heat to low. Add garlic to the skillet and cook for 1 minute until fragrant.",
+      "Pour in heavy cream and bring to a simmer. Cook for 3-5 minutes, or until the sauce has thickened.",
+      "Stir in Parmesan cheese until melted and the sauce is smooth.",
+      "Add the cooked fettuccine and chicken to the skillet. Toss to coat with the sauce.",
+      "Season with salt and black pepper to taste. Stir in fresh parsley.",
+      "Serve hot."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "cuisine": "Italian",
+    "caloriesPerServing": 700,
+    "tags": [
+      "Pasta",
+      "Chicken",
+      "Italian",
+      "Dinner"
+    ],
+    "userId": 100,
+    "image": "https://cdn.dummyjson.com/recipe-images/100.webp",
+    "rating": 4.6,
+    "reviewCount": 11,
+    "mealType": [
+      "Dinner"
+    ]
+  }
+]
